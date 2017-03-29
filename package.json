@@ -1,0 +1,21 @@
+{
+  "name": "meetup-client",
+  "version": "1.0.0",
+  "description": "A client to query meetup and store the results in a Postgres Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "start": "micro"
+  },
+  "author": "Jack Zampolin <jack.zampolin@gmail.com> (https://github.com/jackzampolin)",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.18.2"
+  },
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "micro": "^7.3.0",
+    "node-fetch": "^1.6.3",
+    "sequelize": "^3.30.4"
+  }
+}
