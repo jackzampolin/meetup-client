@@ -1,0 +1,884 @@
+time,groupName,eventName,duration,eventURL,rsvpLimit,yesRSVPCount,city
+2017-04-25T08:30:00-07:00,IBM Bay Area Developer & Startup Meetup,Analytics Comes to You – Transforming and Expanding Your Business,8h30m0s,https://www.meetup.com/IBM-Bay-Area-Developer-Startup-Meetup/events/239439245/,0,8,SF
+2017-04-25T09:00:00-07:00,SF Data Engineering,DataEngConf SF '17 (paid event w/ discount),80h0m0s,https://www.meetup.com/SF-Data-Engineering/events/237412220/,0,10,SF
+2017-04-25T09:00:00-07:00,East Bay Start Ups + Techies,Open House & FREE Coworking Day at NEW Port Workspaces,9h0m0s,https://www.meetup.com/East-Bay-Start-Ups-Techies/events/239218945/,0,11,SF
+2017-04-25T11:30:00-07:00,San Francisco VMware User Group (SFvmug),Let's Meetup and learn about New Solutions to Perennial Storage Problems,0s,https://www.meetup.com/SFVMUG/events/239029510/,0,30,SF
+2017-04-25T17:30:00-07:00,SF Founder Club,"Startup Tea Talk - Walter Brouwer, Doc.AI Scanadu, Sunil Kurkure, Intel Capital",0s,https://www.meetup.com/Founder/events/238234024/,0,15,SF
+2017-04-25T18:00:00-07:00,San Francisco Internet of Things Meetup (@SFIoTMeetup),The Future of Cellular IoT,2h0m0s,https://www.meetup.com/The-San-Francisco-Internet-of-Things-Meetup/events/239177991/,0,181,SF
+2017-04-25T18:00:00-07:00,Big Data Developers in San Francisco,Data Science Experience w/ IBM Watson & Keen IO,2h0m0s,https://www.meetup.com/big-data-developers-in-san-francisco/events/239309053/,0,8,SF
+2017-04-25T18:00:00-07:00,San Francisco Kagglers,Using Deep Learning for Satellite Imagery Feature Detection Challenge,2h0m0s,https://www.meetup.com/San-Francisco-Kagglers/events/239113801/,100,77,SF
+2017-04-25T18:00:00-07:00,San Francisco Product Marketing Meetup,Messaging that Wins - Product Marketing Panel,2h0m0s,https://www.meetup.com/Product-Marketing/events/237569600/,187,187,SF
+2017-04-25T18:00:00-07:00,SF DevOps for Startups,How to Build in China and Leveraging Docker in Unique Build Systems!,2h0m0s,https://www.meetup.com/SF-DevOps-for-Startups/events/238642366/,0,47,SF
+2017-04-25T18:00:00-07:00,Gateway to Agile (Bay Area),"RSVP, Limited Seats for Taste of XP (TDD and BDD)",2h30m0s,https://www.meetup.com/Gateway-to-Agile-Bay-Area/events/238959746/,70,49,SF
+2017-04-25T18:00:00-07:00,Women in IoT,IoT Dev Experiences w/Hanan & Aaron: Smart Diaper Project hosted by Neustar,2h0m0s,https://www.meetup.com/womeniniot/events/239280561/,100,11,SF
+2017-04-25T18:00:00-07:00,Angular-SF,Progressive from the Start,1h30m0s,https://www.meetup.com/Angular-SF/events/239115194/,60,64,SF
+2017-04-25T18:00:00-07:00,Learn to Code San Francisco,How to Find a Career in Tech: Resume Workshop,2h0m0s,https://www.meetup.com/learn-to-code-san-francisco/events/239316337/,0,24,SF
+2017-04-25T18:00:00-07:00,The San Francisco Android User Group,Advanced RxJava through concrete Android examples,2h15m0s,https://www.meetup.com/sfandroid/events/237910039/,300,299,SF
+2017-04-25T18:00:00-07:00,Big Data Developers,Data Science Experience w/ IBM Watson & Keen IO,2h0m0s,https://www.meetup.com/BigDataDevelopers/events/239309158/,0,19,SF
+2017-04-25T18:00:00-07:00,Code Your Face Off,Debugging HTTP API's Workshop,0s,https://www.meetup.com/meetup-code-your-face-off/events/238789675/,0,23,SF
+2017-04-25T18:00:00-07:00,"OpenSMC, a Code for America Brigade for San Mateo County",OpenSMC Weekly Civic Hack Night,2h30m0s,https://www.meetup.com/opensmc/events/239338329/,0,7,SF
+2017-04-25T18:00:00-07:00,JavaScript in the SF East Bay,Angular vs ReactJS: Getting Started,2h30m0s,https://www.meetup.com/eastbayjavascript/events/239136470/,80,80,SF
+2017-04-25T18:30:00-07:00,San Francisco Selenium Meetup Group,Gap Analysis (aka the Death of E2Es),0s,https://www.meetup.com/seleniumsanfrancisco/events/238936596/,0,123,SF
+2017-04-25T18:30:00-07:00,OpenOakland: The Code for America Brigade in Oakland,OpenOakland Tech Equity Week Special Presentation,2h30m0s,https://www.meetup.com/OpenOakland/events/239143872/,0,8,SF
+2017-04-25T19:00:00-07:00,"VFX Technology: Film, Animation, VR, Video","Cinematic VR & Film Recruiter Tech Panel - ILMxLab, Pixar, Lytro",2h0m0s,https://www.meetup.com/vfxtech/events/239010260/,0,31,SF
+2017-04-26T07:30:00-07:00,Virtual IoT,IoT Developer Trends - 2017 Edition,0s,https://www.meetup.com/Virtual-IoT/events/239299887/,0,98,SF
+2017-04-26T08:00:00-07:00,OpenAI San Francisco,ONLINE WEBINAR: Text Prediction Using Recurrent Neural Networks with TensorFlow,1h0m0s,https://www.meetup.com/OpenAI-San-Francisco/events/239157367/,1,1,SF
+2017-04-26T08:00:00-07:00,TensorFlow San Francisco,ONLINE WEBINAR: Text Prediction Using Recurrent Neural Networks with TensorFlow,1h0m0s,https://www.meetup.com/TensorFlow-San-Francisco/events/239157314/,1,1,SF
+2017-04-26T08:30:00-07:00,Advanced Spark and TensorFlow Meetup,DataEngConf SF - Apr 26-28 2017 - 40 Speakers!! - Mission Bay Conference Center,45h30m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/238370757/,0,59,SF
+2017-04-26T09:00:00-07:00,Docker Online Meetup,DockerCon 2017 Recap: Highlights and Announcements!,1h0m0s,https://www.meetup.com/Docker-Online-Meetup/events/239286321/,0,510,SF
+2017-04-26T09:00:00-07:00,GoSF,[Outside Event] DataEngConf - Special Offer,55h0m0s,https://www.meetup.com/golangsf/events/238968657/,1,1,SF
+2017-04-26T10:00:00-07:00,"Big Data (native Hadoop) Ingest & Transform, SF Chapter",Intro to Big Data AppHub: Kinesis to S3 & S3 to HDFS Sync App Templates,2h0m0s,https://www.meetup.com/Big-Data-Ingest-SF/events/239360858/,0,7,SF
+2017-04-26T10:00:00-07:00,SF Bay Crowdfunders,Programming Study Session - Work on Your Project,3h0m0s,https://www.meetup.com/sfbaycrowdfunders/events/239362462/,20,3,SF
+2017-04-26T10:00:00-07:00,"Big Data (native Hadoop) Ingest & Transform, San Ramon",Intro to Big Data AppHub: Kinesis to S3 & S3 to HDFS Sync App Templates,2h0m0s,https://www.meetup.com/Big-Data-Ingest-San-Ramon/events/239360870/,0,4,SF
+2017-04-26T17:30:00-07:00,Sales Mastership,Sales Mastership: The Best Practices for Prospecting and Winning,0s,https://www.meetup.com/Sales-Mastership/events/238689619/,60,12,SF
+2017-04-26T17:30:00-07:00,The Android Makers,Android Lightning Talks,3h30m0s,https://www.meetup.com/AndroidMakers/events/238160638/,99,5,SF
+2017-04-26T18:00:00-07:00,AWS San Francisco | Official Events,Connecting Your Devices through AWS IoT,2h0m0s,https://www.meetup.com/AWS-SANFRANCISCO/events/238959155/,0,116,SF
+2017-04-26T18:00:00-07:00,Secure Internet of Things Academy,"Talk IoT, network and socialize",2h0m0s,https://www.meetup.com/Secure-Internet-of-Things-Academy/events/239394926/,0,10,SF
+2017-04-26T18:00:00-07:00,Code for San Francisco - Civic Hack Night,Weekly Civic Hack Night,3h30m0s,https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/238967430/,0,20,SF
+2017-04-26T18:00:00-07:00,Bay Area Salesforce Developer Group,Women in Technology with Sandy Kurtzig & Leyla Seka,2h30m0s,https://www.meetup.com/ForceDotCom/events/238800651/,300,283,SF
+2017-04-26T18:30:00-07:00,Hayward Techies & Makers,Let's Talk Tech,2h0m0s,https://www.meetup.com/Hayward-Techies/events/239375487/,0,5,SF
+2017-04-26T19:00:00-07:00,The San Francisco WordPress Meetup,"Speed Geek: Extending WordPress, Theming and More!",0s,https://www.meetup.com/wordpress-sf/events/234830378/,0,39,SF
+2017-04-26T19:00:00-07:00,Ace Monster Toys,Box Bots Build Party,2h30m0s,https://www.meetup.com/Ace-Monster-Toys/events/239376440/,20,4,SF
+2017-04-26T19:00:00-07:00,Ace Monster Toys,Welding 101,27h0m0s,https://www.meetup.com/Ace-Monster-Toys/events/238197637/,5,5,SF
+2017-04-26T19:00:00-07:00,Berkeley DevOps And Site Reliability Engineer Meetup,Jenkins  Role-based authorization security - assessment ,2h0m0s,https://www.meetup.com/meetup-group-mxhYhytO/events/238995381/,0,10,SF
+2017-04-26T20:00:00-07:00,"Big Data (native Hadoop) Ingest & Transform, San Ramon",[Repeat] Intro to Big Data AppHub: Kinesis to S3 & S3 to HDFS Sync App Templates,2h0m0s,https://www.meetup.com/Big-Data-Ingest-San-Ramon/events/239370044/,0,3,SF
+2017-04-27T08:00:00-07:00,Stacki San Francisco,StackiFest 2017,9h0m0s,https://www.meetup.com/Stacki-San-Francisco/events/237507145/,0,5,SF
+2017-04-27T08:00:00-07:00,Stacki San Jose,StackiFest 2017,9h0m0s,https://www.meetup.com/Stacki-San-Jose/events/237507213/,0,14,SF
+2017-04-27T10:00:00-07:00,ArangoDB Online Meetup,GraphQL and ArangoDB,0s,https://www.meetup.com/online-ArangoDB-meetup/events/239157303/,0,78,SF
+2017-04-27T13:00:00-07:00,Neo4j Online Meetup,Learning Chinese with Neo4j,1h0m0s,https://www.meetup.com/Neo4j-Online-Meetup/events/239292412/,0,69,SF
+2017-04-27T18:00:00-07:00,On Top of The Cloud: Salesforce.com MeetUp,San Francisco Entertainment & Tech Mixer + Expert Panel at 715 Harrison 4/27,2h0m0s,https://www.meetup.com/SF-Salesforce/events/239392723/,0,48,SF
+2017-04-27T18:00:00-07:00,SF LegalTech Meetup,Drinks after work!,0s,https://www.meetup.com/SF-Legaltech-Meetup/events/238974425/,0,21,SF
+2017-04-27T18:00:00-07:00,Code Your Face Off,Work Like a Developer: Intro to Terminal & Git,0s,https://www.meetup.com/meetup-code-your-face-off/events/239217012/,0,5,SF
+2017-04-27T18:30:00-07:00,Swift Language User Group (San Francisco),Dealing With Asynchrony in a Synchronous Swift World with Greg Heo,0s,https://www.meetup.com/swift-language/events/239281336/,0,121,SF
+2017-04-27T18:30:00-07:00,Bay Area Spark Meetup,Bay Area Apache Spark Meetup @ Grammarly and Adobe in SF,2h30m0s,https://www.meetup.com/spark-users/events/238830244/,180,180,SF
+2017-04-27T18:30:00-07:00,SF Video Technology,Monthly Video Meetup,0s,https://www.meetup.com/SF-Video-Technology/events/236633040/,50,49,SF
+2017-04-27T19:00:00-07:00,Noisebridge Hackerspace,Laser Safety Training,1h30m0s,https://www.meetup.com/noisebridge/events/238527933/,6,6,SF
+2017-04-28T12:30:00-07:00,San Francisco Entrepreneurs & Startups,Executive Presence SF: The Path from Expertise to Authority,2h0m0s,https://www.meetup.com/sfentrepreneur/events/239310273/,0,5,SF
+2017-04-28T18:00:00-07:00,Learn Web Development @ Rithm,4th Friday Happy Hour,2h0m0s,https://www.meetup.com/rithmschool/events/239195362/,0,8,SF
+2017-04-29T08:00:00-07:00,Women Who Code Silicon Valley,WWCode Connect Conference,0s,https://www.meetup.com/Women-Who-Code-Silicon-Valley/events/238832823/,0,40,SF
+2017-04-29T09:00:00-07:00,Advanced Spark and TensorFlow Meetup,"[Workshop] Intro to Data Analytics with Python, SQL, Spark, Seaborn [Discount]",32h0m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/239133584/,0,17,SF
+2017-04-30T11:00:00-07:00,Ace Monster Toys,Metalworking Lab,6h0m0s,https://www.meetup.com/Ace-Monster-Toys/events/238201542/,1,1,SF
+2017-04-30T13:00:00-07:00,Ace Monster Toys,Stiltwalking part 1: Building Your Stilts,4h0m0s,https://www.meetup.com/Ace-Monster-Toys/events/239308149/,11,3,SF
+2017-05-01T19:00:00-07:00,Noisebridge Hackerspace,Circuit Hacking Mondays - Learn to make cool things with electronics,2h0m0s,https://www.meetup.com/noisebridge/events/238889729/,0,4,SF
+2017-05-01T19:00:00-07:00,Noisebridge Hackerspace,Noisebridge Python Class - Testing Python Code,1h30m0s,https://www.meetup.com/noisebridge/events/238947413/,0,6,SF
+2017-05-01T19:00:00-07:00,Ace Monster Toys,3D Printer 101 and Hangout,2h0m0s,https://www.meetup.com/Ace-Monster-Toys/events/239310933/,0,5,SF
+2017-05-02T11:00:00-07:00,Noisebridge Hackerspace,Beginner-friendly freeCodeCamp Workshop,0s,https://www.meetup.com/noisebridge/events/238600527/,0,5,SF
+2017-05-02T17:15:00-07:00,The Developer Network (SF/SV),Developer + Entrepreneur Mixer and Happy Hour,0s,https://www.meetup.com/developer-network/events/237750201/,0,11,SF
+2017-05-02T17:30:00-07:00,East Bay Salesforce User Group,"East Bay Salesforce User Group: May 2, 2017",2h0m0s,https://www.meetup.com/East-Bay-Salesforce-User-Group/events/239344250/,25,9,SF
+2017-05-02T18:00:00-07:00,RICOH THETA Developers SF Bay Area,New Technology Demos from RICOH THETA,0s,https://www.meetup.com/RICOH-THETA-Developers-SF-Bay-Area/events/239040006/,0,34,SF
+2017-05-02T18:00:00-07:00,Bay Area Mesos User Group,Mesosphere and Portworx at Mesosphere HQ!,0s,https://www.meetup.com/Bay-Area-Mesos-User-Group/events/239340429/,0,28,SF
+2017-05-02T18:00:00-07:00,The East Bay R Language Beginners Group,TBD,2h0m0s,https://www.meetup.com/r-enthusiasts/events/238915690/,100,8,SF
+2017-05-02T18:00:00-07:00,East Bay Python Web Development,"Chat, Hack, and Hangout",3h0m0s,https://www.meetup.com/East-Bay-Python-Web-Development/events/237630403/,30,8,SF
+2017-05-02T18:00:00-07:00,"OpenSMC, a Code for America Brigade for San Mateo County",OpenSMC Weekly Civic Hack Night,2h30m0s,https://www.meetup.com/opensmc/events/239379072/,0,3,SF
+2017-05-02T19:00:00-07:00,Learn Web Development @ Rithm,Coding for Beginners,2h0m0s,https://www.meetup.com/rithmschool/events/238789452/,0,4,SF
+2017-05-02T19:00:00-07:00,Silicon Valley Cloud Computing,Restoring Order (and Sanity) in AWS Accounts,0s,https://www.meetup.com/cloudcomputing/events/239315789/,0,22,SF
+2017-05-02T19:00:00-07:00,Ace Monster Toys,Laser Cutter 101: Safety and basic operation,1h30m0s,https://www.meetup.com/Ace-Monster-Toys/events/238970039/,9,4,SF
+2017-05-03T10:00:00-07:00,Weave Online User Group,Docker LinuxKit and Docker Swarm + Prometheus: Weaveworks' Docker Contributions,1h0m0s,https://www.meetup.com/Weave-User-Group/events/239378313/,0,52,SF
+2017-05-03T17:30:00-07:00,International entrepreneurs in Silicon Valley,The Rise of Artificial Intelligence Marketing [#AIMA],3h0m0s,https://www.meetup.com/International-entrepreneurs-in-Silicon-Valley/events/239277114/,0,8,SF
+2017-05-03T18:00:00-07:00,San Francisco Open Drinks,"Open Drinks for Annotation, Conference, and Hack Day",0s,https://www.meetup.com/SFOpenDrinks/events/238624410/,45,18,SF
+2017-05-03T18:00:00-07:00,Code for San Francisco - Civic Hack Night,Project demo night!,4h0m0s,https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/239264106/,0,34,SF
+2017-05-03T18:00:00-07:00,Learn to Code San Francisco,Software Engineering Daily Meetup 3: Fraud and Risk in Software,3h0m0s,https://www.meetup.com/learn-to-code-san-francisco/events/239071215/,0,8,SF
+2017-05-03T18:00:00-07:00,Software Engineering Daily,Software Engineering Daily Meetup 3: Fraud and Risk in Software,0s,https://www.meetup.com/Software-Engineering-Daily/events/238996347/,0,68,SF
+2017-05-03T18:00:00-07:00,East Bay Artificial Intelligence & Deep Learning,Scalable Machine Learning in R and Python with H2O,2h0m0s,https://www.meetup.com/East-Bay-Artificial-Intelligence-Deep-Learning/events/238811777/,0,58,SF
+2017-05-03T19:00:00-07:00,Ace Monster Toys,Adobe Illustrator: Techniques for the AMT Laser Cutter,1h30m0s,https://www.meetup.com/Ace-Monster-Toys/events/238987018/,11,6,SF
+2017-05-03T19:00:00-07:00,Association of C/C++ Users - San Francisco Bay Area,Berkeley: Generating Protocol Tests at Compile Time,1h30m0s,https://www.meetup.com/ACCU-Bay-Area/events/238849762/,0,29,SF
+2017-05-04T09:00:00-07:00,SF Open Annotation Meetup,I Annotate 2017 Conference,32h0m0s,https://www.meetup.com/SFOpenAnnotation/events/238624960/,120,7,SF
+2017-05-04T18:00:00-07:00,San Francisco Hardware Startups,Comprehensive Hardware Walkthrough: Experts Advise Thru Major Stages of Startup,3h0m0s,https://www.meetup.com/San-Francisco-Hardware-Massive/events/239031670/,1,2,SF
+2017-05-04T18:00:00-07:00,DevOps Exchange San Francisco,DevOps Exchange May 2017  ,0s,https://www.meetup.com/DevOps-Exchange-SanFrancisco/events/238833229/,0,54,SF
+2017-05-04T18:00:00-07:00,San Francisco Beacon and BLE Meetup,"What’s New in Beacon Tech, 2017? - Kurt McIntire",0s,https://www.meetup.com/San-Francisco-micro-location-meetup-ibeacons-BLE-etc/events/238747008/,0,28,SF
+2017-05-04T18:00:00-07:00,BayGeo,GeoBeers,0s,https://www.meetup.com/baygeo/events/236755064/,0,11,SF
+2017-05-04T18:00:00-07:00,SF Hardware,Comprehensive Hardware Walkthrough: Experts Advise Thru Major Stages of Startup,3h0m0s,https://www.meetup.com/SF-Hardware-Massive/events/239031668/,1,2,SF
+2017-05-04T18:00:00-07:00,Rust Bay Area,Using Rust at Dropbox to make Magic Pocket,0s,https://www.meetup.com/Rust-Bay-Area/events/239222217/,100,100,SF
+2017-05-04T18:00:00-07:00,Code Your Face Off,Functional Programming in JavaScript,0s,https://www.meetup.com/meetup-code-your-face-off/events/239218021/,0,11,SF
+2017-05-04T18:00:00-07:00,Fintech at Scale,State of Machine Intelligence,2h0m0s,https://www.meetup.com/Fintech-at-Scale/events/238327101/,100,100,SF
+2017-05-04T18:30:00-07:00,SFNode,May SFNode at Zymergen (Emeryville),2h30m0s,https://www.meetup.com/sfnode/events/231483341/,175,59,SF
+2017-05-04T19:00:00-07:00,ArtsTech SF,The Gray Area Festival 2017,71h0m0s,https://www.meetup.com/ArtsTechSF/events/239142676/,0,9,SF
+2017-05-04T19:00:00-07:00,Bay Area Software Engineers (BASE),Virtual Reality and Augmented Reality Job Fair @ UpLoadVR,2h0m0s,https://www.meetup.com/software/events/239002568/,200,36,SF
+2017-05-04T19:00:00-07:00,Crate.IO: San Francisco,Putting Machine Data to Work,0s,https://www.meetup.com/CrateIO/events/239034929/,0,4,SF
+2017-05-06T09:00:00-07:00,Bay Area Women in Technology Meetup,Come Hack at AngelHack's 10th Global Series!,19h0m0s,https://www.meetup.com/Bay-Area-Women-in-Technology-Meetup/events/239163370/,0,15,SF
+2017-05-06T09:00:00-07:00,Advanced Spark and TensorFlow Meetup,[Workshop] Intro to Machine Learning with Python & Scikit-Learn [Discount],32h0m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/239133774/,0,7,SF
+2017-05-06T09:00:00-07:00,SF Open Annotation Meetup,I Annotate 2017 Hack Day,0s,https://www.meetup.com/SFOpenAnnotation/events/238439051/,20,6,SF
+2017-05-06T16:00:00-07:00,Cypherpunks Write Code,Hackathon: Holding Police Accountable with OpenOversight!,6h0m0s,https://www.meetup.com/Cypherpunks-Write-Code/events/239262719/,20,4,SF
+2017-05-08T18:00:00-07:00,Software QA and Testers,"Learn Java, JUnit, TestNg and Selenium WebDriver – 6 Weeks of In-Class Bootcamp",0s,https://www.meetup.com/renttesters/events/234639302/,0,5,SF
+2017-05-08T19:00:00-07:00,Noisebridge Hackerspace,Circuit Hacking Mondays - Learn to make cool things with electronics,2h0m0s,https://www.meetup.com/noisebridge/events/238889751/,0,4,SF
+2017-05-08T19:00:00-07:00,Women Who Code East Bay,Code Study Meetup in Berkeley (near downtown BART) + Algorithms Study Group,2h0m0s,https://www.meetup.com/Women-Who-Code-East-Bay/events/239348823/,24,5,SF
+2017-05-09T10:00:00-07:00,Weave Online User Group,Docker for devs and ops: what's new and what's next w/ Patrick Chanezon (Docker),1h0m0s,https://www.meetup.com/Weave-User-Group/events/239378166/,0,48,SF
+2017-05-09T18:00:00-07:00,San Francisco Smart Toys Meetup,Smart Toys Meetup 6,0s,https://www.meetup.com/San-Francisco-Smart-Toys-Meetup/events/238918180/,0,23,SF
+2017-05-09T18:00:00-07:00,Health 2.0 San Francisco,"May Meeting: Aubrey de Grey, Ph.D., - How Aging May Soon Cease to Exist",2h30m0s,https://www.meetup.com/Health2conSF/events/239308958/,1,1,SF
+2017-05-09T18:30:00-07:00,OpenTable Tech Talks,Scalable and Resilient Microservices,0s,https://www.meetup.com/OpenTable-SF-Engineering/events/239179062/,120,53,SF
+2017-05-10T17:30:00-07:00,Silicon Valley JavaFX User Group,JavaFX Meetup,0s,https://www.meetup.com/svjugfx/events/237661803/,135,4,SF
+2017-05-10T18:00:00-07:00,Code for San Francisco - Civic Hack Night,Weekly Civic Hack Night,3h30m0s,https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/238624347/,0,5,SF
+2017-05-10T19:00:00-07:00,The San Francisco WordPress Meetup,WPSFO Meetup at Automattic - Topic to be determined,0s,https://www.meetup.com/wordpress-sf/events/231396590/,0,7,SF
+2017-05-10T19:00:00-07:00,Tech Talks with Acquia,Tech Talk: It’s no longer digital business. It’s just business.,0s,https://www.meetup.com/Tech-Talks-with-Acquia/events/239311636/,0,15,SF
+2017-05-10T19:00:00-07:00,Elm user group SF,Elm Hack Night,3h0m0s,https://www.meetup.com/Elm-user-group-SF/events/239028055/,0,11,SF
+2017-05-10T19:00:00-07:00,Ace Monster Toys,Metalworking 101,27h0m0s,https://www.meetup.com/Ace-Monster-Toys/events/238296683/,6,4,SF
+2017-05-10T19:30:00-07:00,Noisebridge Hackerspace,Workshop on Behavioral Economics & Polite Robot Behavior,1h30m0s,https://www.meetup.com/noisebridge/events/239369857/,0,17,SF
+2017-05-11T17:30:00-07:00,Hire Ruby on Rails Developers,May Hire Ruby on Rails Developers,3h30m0s,https://www.meetup.com/Hire-San-Francisco-Ruby-on-Rails-Developers/events/239331269/,0,42,SF
+2017-05-11T17:30:00-07:00,SF DevOps,May Dev Jobs,0s,https://www.meetup.com/sf-DevOps/events/239383052/,30,6,SF
+2017-05-11T17:30:00-07:00,Hire Ruby Engineers,May Hire Ruby Engineers,3h30m0s,https://www.meetup.com/Rails-Jobs/events/239331256/,0,10,SF
+2017-05-11T17:30:00-07:00,Hire Front End Developers,May Hire front end developers,3h30m0s,https://www.meetup.com/Hire-Front-End-Developers/events/239331131/,0,25,SF
+2017-05-11T17:30:00-07:00,Hire Node Developers,May Hire Node Developers,3h30m0s,https://www.meetup.com/Hire-node-JS-developers/events/239331232/,0,6,SF
+2017-05-11T18:00:00-07:00,Meteor SF Bay Area,Meteor Night May: Meteor 1.5 Preview,0s,https://www.meetup.com/Meteor-SFBay/events/239302658/,0,77,SF
+2017-05-11T18:00:00-07:00,productmind,Cracking Product Management,0s,https://www.meetup.com/productmind/events/238851151/,20,20,SF
+2017-05-11T18:00:00-07:00,Geospatial Big Data & Analytics Bay Area,Scalable Analytics with Satellite Imagery: Machine Learning vs. Image Analysis,3h0m0s,https://www.meetup.com/geospatial-big-data-analytics-bay-area/events/239302394/,0,54,SF
+2017-05-11T18:30:00-07:00,SF CockroachDB User Group,SF CockroachDB User Group - 1.0 Release: What's in store?,0s,https://www.meetup.com/SF-CockroachDB-User-Group/events/239306231/,0,25,SF
+2017-05-11T18:30:00-07:00,ItaliaGeeks,#25 - Elisa Zunnui - Discovering the Neandertals through a GIS analysis,2h0m0s,https://www.meetup.com/ItaliaGeeks/events/237297915/,0,12,SF
+2017-05-11T19:00:00-07:00,Noisebridge Hackerspace,Laser Safety Training,1h30m0s,https://www.meetup.com/noisebridge/events/238844219/,6,6,SF
+2017-05-11T19:00:00-07:00,Non-Gaming Virtual Reality - San Francisco,Non-Gaming VR Meetup #9: Social VR!,3h0m0s,https://www.meetup.com/Non-Gaming-VR/events/238943858/,0,40,SF
+2017-05-12T13:00:00-07:00,Advanced Spark and TensorFlow Meetup,High-Performance Tensorflow in Production: Optimize and Deploy Tensorflow Models,3h0m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/238960747/,0,45,SF
+2017-05-12T17:00:00-07:00,SFHTML5,"Beyond Static Sites with Jessica Parsons, Brian Douglas, and Matt Biilmann",4h0m0s,https://www.meetup.com/sfhtml5/events/238958220/,0,96,SF
+2017-05-13T10:00:00-07:00,Ace Monster Toys,Bandsaw / Drill Press 101,2h0m0s,https://www.meetup.com/Ace-Monster-Toys/events/239445086/,6,3,SF
+2017-05-15T18:00:00-07:00,GoSF,Gopherfest 2017,3h0m0s,https://www.meetup.com/golangsf/events/238748981/,300,300,SF
+2017-05-15T19:00:00-07:00,Noisebridge Hackerspace,Circuit Hacking Mondays - Learn to make cool things with electronics,2h0m0s,https://www.meetup.com/noisebridge/events/238889862/,0,3,SF
+2017-05-15T19:00:00-07:00,Noisebridge Hackerspace,Noisebridge Python Class,1h30m0s,https://www.meetup.com/noisebridge/events/238947424/,0,3,SF
+2017-05-15T19:00:00-07:00,Ace Monster Toys,Table saw / Panel Saw 101,2h30m0s,https://www.meetup.com/Ace-Monster-Toys/events/239445061/,0,3,SF
+2017-05-16T18:00:00-07:00,Bot Builder MeetUp,Bot Builders' MeetUp: May,0s,https://www.meetup.com/botbuilder/events/238867232/,0,18,SF
+2017-05-16T18:00:00-07:00,San Francisco Big Data Science,Going Deeper in Finance,2h30m0s,https://www.meetup.com/San-Francisco-Big-Data-Science/events/239392673/,0,37,SF
+2017-05-16T18:30:00-07:00,Maptime SF / Oakland,MapTime SF/OAK--a safe place for mapping!,0s,https://www.meetup.com/Maptime-SF/events/237951814/,20,20,SF
+2017-05-16T18:30:00-07:00,Women Who Code East Bay,Programming and Web Dev Study Group,2h15m0s,https://www.meetup.com/Women-Who-Code-East-Bay/events/236812948/,15,15,SF
+2017-05-16T19:00:00-07:00,"Big Data, San Francisco","Big Data, San Francisco v 2.0",3h0m0s,https://www.meetup.com/BigDataSanFran/events/238379338/,0,31,SF
+2017-05-17T09:00:00-07:00,CrowdFlower MeetUp,Train AI 2017 (paid event with discount),0s,https://www.meetup.com/RichData/events/238992296/,0,4,SF
+2017-05-17T18:00:00-07:00,Code for San Francisco - Civic Hack Night,Weekly Civic Hack Night,3h30m0s,https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/238967522/,0,4,SF
+2017-05-17T18:00:00-07:00,San Francisco Reliability Engineering,SF Reliability Engineering - May Talks,0s,https://www.meetup.com/San-Francisco-Reliability-Engineering/events/238810942/,0,18,SF
+2017-05-17T19:00:00-07:00,#MonitorSF,Lightning fast monitoring against lightning fast outages,3h0m0s,https://www.meetup.com/MonitorSF/events/239332676/,35,29,SF
+2017-05-17T19:00:00-07:00,Robot Developers Group - Bay Area,BotsNBeer in SF,0s,https://www.meetup.com/SFRobots/events/239053608/,0,5,SF
+2017-05-18T17:30:00-07:00,The Developer Network (SF/SV),Demo Night @ Google IO,0s,https://www.meetup.com/developer-network/events/239431919/,0,22,SF
+2017-05-18T18:00:00-07:00,Sandstorm SF Bay Area,Cap'n Proto 0.6 Release at Cloudflare (SF),3h0m0s,https://www.meetup.com/Sandstorm-SF-Bay-Area/events/239341254/,0,13,SF
+2017-05-18T18:00:00-07:00,Ruby on Rails Tech Talk at Touch of Modern,Ruby on Rails Tech Talk @ Touch of Modern,2h30m0s,https://www.meetup.com/Ruby-on-Rails-Tech-Talk-Touch-of-Modern/events/239312653/,100,40,SF
+2017-05-18T18:00:00-07:00,Tech in Motion Events: San Francisco,Containerization & DevOps Tech Talk Part II,3h0m0s,https://www.meetup.com/TechinMotionSF/events/238658513/,0,85,SF
+2017-05-18T18:00:00-07:00,San Francisco Bay Area Big Data and Scalable Systems,"Druid: A High Performance, Column-Oriented, Distributed Data Store",0s,https://www.meetup.com/San-Francisco-Bay-Area-Big-Data-and-Scalable-Systems/events/238477886/,0,72,SF
+2017-05-18T18:30:00-07:00,Write/Speak/Code SF & Bay Area,Write/Speak/Code: Self-Care and Microaggressions at work,2h0m0s,https://www.meetup.com/WriteSpeakCode-SFBay/events/238609065/,0,9,SF
+2017-05-18T18:30:00-07:00,Bay Area IoT Security Meetup,Bay Area IoT Security Meetup - May 2017,2h30m0s,https://www.meetup.com/Bay-Area-IoT-Security-Meetup/events/239471729/,0,14,SF
+2017-05-19T09:00:00-07:00,Makers Artists Crafters  & Hackers - Contra Costa Makerspace,Maker Faire Bay Area,56h0m0s,https://www.meetup.com/East-Bay-Hackers-Contra-Costa-County-Hackerspace/events/238347594/,0,3,SF
+2017-05-19T18:00:00-07:00,"Pitch Globally & Network with Startups,VC's,Techies,Mentors",Pitch Globally Sharktank Style at Pivotal Labs SF,3h30m0s,https://www.meetup.com/pitchgloballySF/events/239403803/,0,56,SF
+2017-05-19T18:00:00-07:00,"Vision Architecture® Smart Cities, Smart Data & IoT Meetups","Metropolis: May 19: Millennials and New Government Order, Xform Public Service",2h0m0s,https://www.meetup.com/Vision-Architecture-Smart-Cities-Smart-Data-IoT-Meetups/events/236533374/,0,5,SF
+2017-05-19T18:00:00-07:00,Startups-Business-Intelligence,Live Sharks Tank® Episode 47 startup expo & VIP after Party,3h0m0s,https://www.meetup.com/Future-BI/events/239473575/,0,411,SF
+2017-05-19T18:00:00-07:00,SF Bay Crowdfunders,Live Sharks Tank® episode 47 startup expo & VIP-party,3h0m0s,https://www.meetup.com/sfbaycrowdfunders/events/239319915/,0,410,SF
+2017-05-20T09:00:00-07:00,Advanced Spark and TensorFlow Meetup,[Workshop] Intro to Deep Learning with Python (Keras/Tensorflow) [Discount],32h0m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/239133934/,0,12,SF
+2017-05-23T08:00:00-07:00,Bay Area Hackathons,Cisco DevNet IoT Hackathon,23h0m0s,https://www.meetup.com/Hackathons/events/238858551/,0,20,SF
+2017-05-23T18:30:00-07:00,Ember.js San Francisco,May 2017 Meetup,0s,https://www.meetup.com/Ember-SF/events/237197949/,200,62,SF
+2017-05-24T09:30:00-07:00,The Future of IoT Meetup,Artificial Intelligence and IoT: Making Things Smarter,45m0s,https://www.meetup.com/The-Future-of-IoT-Meetup/events/238938638/,0,9,SF
+2017-05-24T18:00:00-07:00,Code for San Francisco - Civic Hack Night,Weekly Civic Hack Night,3h30m0s,https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/238967524/,0,3,SF
+2017-05-24T19:00:00-07:00,The San Francisco WordPress Meetup,WPSFO Dev Meetup at Pantheon -Topic to be determined,0s,https://www.meetup.com/wordpress-sf/events/237670845/,0,4,SF
+2017-05-24T19:00:00-07:00,Ace Monster Toys,Welding 101,3h0m0s,https://www.meetup.com/Ace-Monster-Toys/events/238296713/,6,6,SF
+2017-05-25T12:00:00-07:00,San Francisco NS1 Meetup,The Dawn of the DDoS Age,1h30m0s,https://www.meetup.com/ns1-sf/events/239191603/,0,14,SF
+2017-05-25T18:00:00-07:00,BayGeo,Society for Conservation GIS Meeting,0s,https://www.meetup.com/baygeo/events/239339974/,30,3,SF
+2017-05-25T18:00:00-07:00,productmind,Product Marketers; Can we join forces and deliver awesome products?,0s,https://www.meetup.com/productmind/events/238858881/,20,10,SF
+2017-05-25T18:00:00-07:00,Snowflake Meetup - Bay Area,Analytics in the Cloud: Unity and Hotel Tonight (rescheduled),2h0m0s,https://www.meetup.com/Snowflake-Meetup-Bay-Area/events/239213179/,0,30,SF
+2017-05-25T18:30:00-07:00,SF Video Technology,Monthly Video Meetup,0s,https://www.meetup.com/SF-Video-Technology/events/236633044/,50,11,SF
+2017-05-25T19:00:00-07:00,Noisebridge Hackerspace,Laser Safety Training,1h30m0s,https://www.meetup.com/noisebridge/events/238805988/,6,3,SF
+2017-05-30T18:00:00-07:00,The San Francisco Android User Group,May Event (TBD) at Yelp,2h15m0s,https://www.meetup.com/sfandroid/events/238274853/,250,28,SF
+2017-05-31T08:00:00-07:00,Virtual IoT,Smarter Internet of Things with Stream and Event Processing,0s,https://www.meetup.com/Virtual-IoT/events/238648625/,0,98,SF
+2017-05-31T09:00:00-07:00,San Francisco CoreOS Meetup,CoreOS Fest 2017,37h0m0s,https://www.meetup.com/coreos/events/239216168/,0,22,SF
+2017-05-31T09:00:00-07:00,Seattle CoreOS Meetup,CoreOS Fest 2017,37h0m0s,https://www.meetup.com/Seattle-CoreOS-Meetup/events/239216128/,0,3,SF
+2017-05-31T06:00:00-07:00,New York City CoreOS Meetup,CoreOS Fest 2017,37h0m0s,https://www.meetup.com/coreos-nyc/events/239216085/,0,5,SF
+2017-05-31T18:00:00-07:00,Code for San Francisco - Civic Hack Night,Weekly Civic Hack Night,3h30m0s,https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/238967527/,0,3,SF
+2017-05-31T18:00:00-07:00,Bay Area ServiceNow Developer Meetup,ServiceNow Developer Spring Meetup,0s,https://www.meetup.com/Bay-Area-ServiceNow-Developer-Meetup/events/238281739/,0,10,SF
+2017-05-31T18:30:00-07:00,ChickTech Bay Area,Interviewing with a Recruiter in Tech: What It Means and How to Prepare,2h30m0s,https://www.meetup.com/ChickTech-BayArea/events/239289919/,0,6,SF
+2017-06-01T18:00:00-07:00,Advanced Spark and TensorFlow Meetup,"Reinforcement Learning Tensorflow DeepMind Sonnet AlphaGo, OpenAI Universe, RL4J",3h0m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/236307439/,0,133,SF
+2017-06-01T18:30:00-07:00,SFNode,June SFNode at OpenTable,2h30m0s,https://www.meetup.com/sfnode/events/231626003/,160,16,SF
+2017-06-01T18:30:00-07:00,Bay Area Microsoft Business Intelligence User Group,Delivering Real-Time Power BI Dashboards,0s,https://www.meetup.com/San-Francisco-Bay-Area-Microsoft-BI-User-Group/events/238610513/,0,10,SF
+2017-06-03T09:00:00-07:00,Advanced Spark and TensorFlow Meetup,[Workshop] Advanced Deep Learning with Python & Tensorflow [Discount],32h0m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/239134353/,0,8,SF
+2017-06-05T18:00:00-07:00,Bay Area Spark Meetup,Pre-Spark Summit Bay Area Apache Spark Meetup @  Moscone Center SF,3h0m0s,https://www.meetup.com/spark-users/events/239467755/,450,91,SF
+2017-06-06T08:30:00-07:00,BayGeo,SF Bay Area GIS Users Group Quarterly Meeting,3h30m0s,https://www.meetup.com/baygeo/events/236775803/,100,7,SF
+2017-06-06T17:00:00-07:00,The Developer Network (SF/SV),iOS Monthly Meetup,0s,https://www.meetup.com/developer-network/events/238979933/,0,4,SF
+2017-06-06T17:15:00-07:00,The Developer Network (SF/SV),Developer + Entrepreneur Mixer and Happy Hour,0s,https://www.meetup.com/developer-network/events/237750208/,0,5,SF
+2017-06-07T09:30:00-07:00,The Future of IoT Meetup,IoT Webinar - ARTIK Cloud: The Power of Cloud Connectors,1h0m0s,https://www.meetup.com/The-Future-of-IoT-Meetup/events/238565320/,0,4,SF
+2017-06-07T18:00:00-07:00,Code for San Francisco - Civic Hack Night,Weekly Civic Hack Night,3h30m0s,https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/238967588/,0,3,SF
+2017-06-07T19:00:00-07:00,Association of C/C++ Users - San Francisco Bay Area,"Berkeley: Informal Discussion, Panel or Presentation",1h30m0s,https://www.meetup.com/ACCU-Bay-Area/events/239048854/,0,4,SF
+2017-06-08T17:30:00-07:00,The Developer Network (SF/SV),Demo Night @ Apple WWDC,0s,https://www.meetup.com/developer-network/events/239432196/,0,12,SF
+2017-06-10T08:00:00-07:00,Seattle Data Engineering,Machine Learning for SETI Hackathon and Coding Challenge,34h30m0s,https://www.meetup.com/Seattle-Data-Engineering/events/239020024/,0,3,SF
+2017-06-10T09:00:00-07:00,Advanced Spark and TensorFlow Meetup,[Online Global] Distributed Tensorflow AI + GPU + Model Optimizing Serving (20%),4h0m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/239430967/,0,21,SF
+2017-06-13T18:00:00-07:00,San Francisco Bay Area Big Data and Scalable Systems,Downtime is not an option - How Apache Mesos - DC/OS keeps apps running ,0s,https://www.meetup.com/San-Francisco-Bay-Area-Big-Data-and-Scalable-Systems/events/238629620/,0,32,SF
+2017-06-13T19:00:00-07:00,#MonitorSF,UX Design and Education for Effective Monitoring Tools,0s,https://www.meetup.com/MonitorSF/events/237745203/,0,37,SF
+2017-06-14T18:00:00-07:00,Code for San Francisco - Civic Hack Night,Weekly Civic Hack Night,3h30m0s,https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/238967591/,0,3,SF
+2017-06-16T18:00:00-07:00,"Vision Architecture® Smart Cities, Smart Data & IoT Meetups","Metropolis: Jun. 16: Sustainability, EcoBlocks, Circular & Sharing Economies",2h0m0s,https://www.meetup.com/Vision-Architecture-Smart-Cities-Smart-Data-IoT-Meetups/events/236533442/,0,5,SF
+2017-06-17T08:00:00-07:00,San Francisco Graph Database Meetup,Graph Day SF,10h0m0s,https://www.meetup.com/san-francisco-graph-database/events/237330332/,0,4,SF
+2017-06-17T05:00:00-07:00,NY Graph Meetup,Graph Day SF (San Francisco),12h0m0s,https://www.meetup.com/nygraph/events/237500703/,0,3,SF
+2017-06-17T09:00:00-07:00,Advanced Spark and TensorFlow Meetup,"[Workshop] Reinforcement Learning with Python, Tensorflow and OpenAI [Discount]",32h0m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/239134495/,0,19,SF
+2017-06-20T12:00:00-07:00,East Bay Start Ups + Techies,Girls in Tech Catalyst Conference 2017,53h0m0s,https://www.meetup.com/East-Bay-Start-Ups-Techies/events/238136689/,0,8,SF
+2017-06-20T18:30:00-07:00,Maptime SF / Oakland,MapTime SF/OAK--a safe place for mapping!,0s,https://www.meetup.com/Maptime-SF/events/238253364/,25,4,SF
+2017-06-20T18:30:00-07:00,Women Who Code East Bay,Programming and Web Dev Study Group,2h15m0s,https://www.meetup.com/Women-Who-Code-East-Bay/events/237579503/,15,7,SF
+2017-06-21T18:00:00-07:00,Cloud Native Apps - SF,Serverless in a Cloud-Native world,0s,https://www.meetup.com/Cloud-Native-Apps-SF/events/239396915/,0,26,SF
+2017-06-21T18:00:00-07:00,Code for San Francisco - Civic Hack Night,Weekly Civic Hack Night,3h30m0s,https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/238967596/,0,3,SF
+2017-06-21T18:30:00-07:00,GoSF,"[Save the Date]  GoSF - Wed, June 21st",2h0m0s,https://www.meetup.com/golangsf/events/238749138/,300,201,SF
+2017-06-22T18:30:00-07:00,Write/Speak/Code SF & Bay Area,Write/Speak/Code: Open Source Hours,2h0m0s,https://www.meetup.com/WriteSpeakCode-SFBay/events/238609564/,0,12,SF
+2017-06-27T18:00:00-07:00,The San Francisco Android User Group,Android OS: Thoughts about the future of computing (from Google),2h15m0s,https://www.meetup.com/sfandroid/events/238582266/,250,35,SF
+2017-06-28T18:00:00-07:00,Code for San Francisco - Civic Hack Night,Weekly Civic Hack Night,3h30m0s,https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/238967598/,0,3,SF
+2017-06-29T18:00:00-07:00,productmind,"UX Designers; building a fruitful, harmonious relationship with Design",0s,https://www.meetup.com/productmind/events/238867672/,0,3,SF
+2017-06-29T18:30:00-07:00,SF Video Technology,Monthly Video Meetup,0s,https://www.meetup.com/SF-Video-Technology/events/237129967/,50,6,SF
+2017-07-05T19:00:00-07:00,Association of C/C++ Users - San Francisco Bay Area,"Berkeley: Informal Discussion, Panel or Presentation",1h30m0s,https://www.meetup.com/ACCU-Bay-Area/events/239463648/,0,4,SF
+2017-07-06T18:30:00-07:00,SFNode,July SFNode,2h30m0s,https://www.meetup.com/sfnode/events/236830366/,160,11,SF
+2017-07-13T12:00:00-07:00,San Francisco NS1 Meetup,Troubleshooting the Scientific Way,1h30m0s,https://www.meetup.com/ns1-sf/events/239191695/,0,11,SF
+2017-07-13T18:30:00-07:00,The future of payments,Kill Bill Birthday #6 Celebration,0s,https://www.meetup.com/The-future-of-payments/events/238245628/,80,17,SF
+2017-07-18T18:30:00-07:00,Maptime SF / Oakland,MapTime SF/OAK--a safe place for mapping!,0s,https://www.meetup.com/Maptime-SF/events/239301448/,35,3,SF
+2017-07-18T18:30:00-07:00,Women Who Code East Bay,Programming and Web Dev Study Group,2h15m0s,https://www.meetup.com/Women-Who-Code-East-Bay/events/237229582/,15,6,SF
+2017-07-20T18:30:00-07:00,Write/Speak/Code SF & Bay Area,Write/Speak/Code: Let's Write About It,0s,https://www.meetup.com/WriteSpeakCode-SFBay/events/239058699/,0,5,SF
+2017-07-21T18:00:00-07:00,"Vision Architecture® Smart Cities, Smart Data & IoT Meetups","Metropolis: Jul. 21: Civic Hacking, Co-Creating Elegant Data, Open City Platform",2h0m0s,https://www.meetup.com/Vision-Architecture-Smart-Cities-Smart-Data-IoT-Meetups/events/236533501/,0,5,SF
+2017-07-25T18:30:00-07:00,Ember.js San Francisco,July 2017 Meetup,0s,https://www.meetup.com/Ember-SF/events/237198095/,200,9,SF
+2017-07-27T18:30:00-07:00,SF Video Technology,Monthly Video Meetup,0s,https://www.meetup.com/SF-Video-Technology/events/237129969/,50,6,SF
+2017-08-03T18:30:00-07:00,SFNode,August SFNode,2h30m0s,https://www.meetup.com/sfnode/events/238294539/,160,3,SF
+2017-08-10T12:00:00-07:00,San Francisco NS1 Meetup,How the DNS Really Works,1h30m0s,https://www.meetup.com/ns1-sf/events/239191751/,0,13,SF
+2017-08-15T18:30:00-07:00,Women Who Code East Bay,Programming and Web Dev Study Group,2h15m0s,https://www.meetup.com/Women-Who-Code-East-Bay/events/237625471/,15,3,SF
+2017-08-16T18:00:00-07:00,San Francisco Bay Area Big Data and Scalable Systems,Distributed Java 8 Streams with Hazelcast JET,0s,https://www.meetup.com/San-Francisco-Bay-Area-Big-Data-and-Scalable-Systems/events/238661359/,0,24,SF
+2017-08-18T18:00:00-07:00,"Vision Architecture® Smart Cities, Smart Data & IoT Meetups",Metropolis: Aug. 18: Climate Change Stewardship & Technology at Port of Oakland,2h0m0s,https://www.meetup.com/Vision-Architecture-Smart-Cities-Smart-Data-IoT-Meetups/events/236533637/,0,5,SF
+2017-08-31T18:30:00-07:00,SF Video Technology,Monthly Video Meetup,0s,https://www.meetup.com/SF-Video-Technology/events/237129972/,50,4,SF
+2017-09-07T13:00:00-07:00,Advanced Spark and TensorFlow Meetup,High-Performance Tensorflow in Production: Optimize and Deploy Tensorflow Models,3h0m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/238960695/,0,41,SF
+2017-09-07T18:30:00-07:00,SFNode,September SFNode at Blend Labs,2h30m0s,https://www.meetup.com/sfnode/events/236882655/,250,5,SF
+2017-09-14T18:00:00-07:00,San Francisco Bay Area Big Data and Scalable Systems,"Spark, Mesos, Akka, Cassandra, Kafka Laying down the SMACK on your datapipelines",0s,https://www.meetup.com/San-Francisco-Bay-Area-Big-Data-and-Scalable-Systems/events/238629855/,0,57,SF
+2017-09-15T18:00:00-07:00,"Vision Architecture® Smart Cities, Smart Data & IoT Meetups","Metropolis: Sep. 15: Situational Intelligence, Array of Things, Navigation",2h0m0s,https://www.meetup.com/Vision-Architecture-Smart-Cities-Smart-Data-IoT-Meetups/events/236533687/,0,5,SF
+2017-09-19T18:30:00-07:00,Ember.js San Francisco,September 2017 Meetup,0s,https://www.meetup.com/Ember-SF/events/237198122/,200,4,SF
+2017-09-19T18:30:00-07:00,Women Who Code East Bay,Programming and Web Dev Study Group,2h15m0s,https://www.meetup.com/Women-Who-Code-East-Bay/events/237625480/,15,4,SF
+2017-10-05T18:30:00-07:00,SFNode,October SFNode,2h30m0s,https://www.meetup.com/sfnode/events/238294609/,160,6,SF
+2017-10-17T18:30:00-07:00,Women Who Code East Bay,Programming and Web Dev Study Group,2h15m0s,https://www.meetup.com/Women-Who-Code-East-Bay/events/237625488/,15,3,SF
+2017-10-20T18:00:00-07:00,"Vision Architecture® Smart Cities, Smart Data & IoT Meetups","Metropolis: Oct. 20: Energy Platforms, Smart Grids, Infrastructure and IIoT",2h0m0s,https://www.meetup.com/Vision-Architecture-Smart-Cities-Smart-Data-IoT-Meetups/events/236533702/,0,5,SF
+2017-11-17T18:00:00-08:00,"Vision Architecture® Smart Cities, Smart Data & IoT Meetups",Metropolis: Nov. 17: Passion & Purpose of Diverse Metropolitan Networks,2h0m0s,https://www.meetup.com/Vision-Architecture-Smart-Cities-Smart-Data-IoT-Meetups/events/236533713/,0,4,SF
+2017-11-21T18:30:00-08:00,Women Who Code East Bay,Programming and Web Dev Study Group,2h15m0s,https://www.meetup.com/Women-Who-Code-East-Bay/events/237625496/,15,3,SF
+2017-11-28T18:30:00-08:00,Ember.js San Francisco,November 2017 Meetup,0s,https://www.meetup.com/Ember-SF/events/237198152/,200,4,SF
+2017-12-15T18:00:00-08:00,"Vision Architecture® Smart Cities, Smart Data & IoT Meetups",Metropolis: Dec. 15: Unveiling 2017’s Co-created Bay Area Metropolis,2h0m0s,https://www.meetup.com/Vision-Architecture-Smart-Cities-Smart-Data-IoT-Meetups/events/236533724/,0,4,SF
+2017-12-19T18:30:00-08:00,Women Who Code East Bay,Programming and Web Dev Study Group,2h15m0s,https://www.meetup.com/Women-Who-Code-East-Bay/events/237625503/,15,3,SF
+2017-12-31T19:00:00-08:00,Advanced Spark and TensorFlow Meetup (SF East Bay),Please Join the Global Advanced Spark + TensorFlow Meetup for All Future Events!,0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup-SF-East-Bay/events/236965698/,0,20,SF
+2018-01-16T18:30:00-08:00,Women Who Code East Bay,Programming and Web Dev Study Group,2h15m0s,https://www.meetup.com/Women-Who-Code-East-Bay/events/237625510/,15,3,SF
+2018-02-08T18:00:00-08:00,Advanced Spark and TensorFlow Meetup,"TensorFlow NLP Options:  word2Vec, gloVe, RNN/LSTM, SyntaxNet, and Penn Treebank",3h0m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/233979387/,0,91,SF
+2017-04-25T11:00:00-07:00,London OpenStack Meetup,The April London Openstack Meetup,0s,https://www.meetup.com/Openstack-London/events/238584164/,0,132,UK
+2017-04-25T11:00:00-07:00,JS Monthly,JS Monthly April 2017,3h0m0s,https://www.meetup.com/js-monthly/events/239142034/,0,105,UK
+2017-04-25T11:30:00-07:00,Bucks & Berks Cloud User Group,Cloud Chat Meet up #6,0s,https://www.meetup.com/BucksBerksCloud/events/238621351/,0,7,UK
+2017-04-26T08:00:00-07:00,TensorFlow London,ONLINE WEBINAR: Text Prediction Using Recurrent Neural Networks with TensorFlow,1h0m0s,https://www.meetup.com/TensorFlow-London/events/239153994/,1,1,UK
+2017-04-26T08:00:00-07:00,OpenAI London,ONLINE WEBINAR: Text Prediction Using Recurrent Neural Networks with TensorFlow,1h0m0s,https://www.meetup.com/OpenAI-London/events/239153987/,1,1,UK
+2017-04-26T10:00:00-07:00,CiviCRM - London meetup group,CiviCRM meetup in April,0s,https://www.meetup.com/CiviCRM-Official-London-meetup/events/238768293/,0,3,UK
+2017-04-26T10:00:00-07:00,Vaadin London Group,Vaadin meetup @ BlackRock - April 26,2h30m0s,https://www.meetup.com/Vaadin-London-Group/events/239359012/,0,7,UK
+2017-04-26T10:00:00-07:00,Women of Wearables,Women & Wearable Tech - Link to FREE ticket in description,3h0m0s,https://www.meetup.com/Women-of-Wearables/events/238488178/,0,36,UK
+2017-04-26T10:00:00-07:00,Big Data Developers in London,Cloud Foundry / Bluemix Ecosystem Meetup,0s,https://www.meetup.com/Big-Data-Analytics-in-London/events/239363190/,0,24,UK
+2017-04-26T10:00:00-07:00,Romanian IT - London,2nd Romanian IT meetup London,3h0m0s,https://www.meetup.com/Romanianit-London/events/238856579/,100,37,UK
+2017-04-26T10:00:00-07:00,"Big Data (Next Gen Hadoop) Ingest & Transform, London",Intro to Big Data AppHub: Kinesis to S3 & S3 to HDFS Sync App Templates,2h0m0s,https://www.meetup.com/Big-Data-Next-Gen-Hadoop-Ingest-Transform-London/events/239364305/,0,6,UK
+2017-04-26T10:00:00-07:00,Data Science Festival - London,Data Science Festival Day 3 - Tech talks at The Telegraph,0s,https://www.meetup.com/Data-Science-Festival-London/events/238491516/,0,154,UK
+2017-04-26T10:00:00-07:00,"Next Gen Native Hadoop Big Data Apex Users Group, London",Intro to Big Data AppHub: Kinesis to S3 & S3 to HDFS Sync App Templates,2h0m0s,https://www.meetup.com/Apex-Users-Group-London/events/239364304/,0,5,UK
+2017-04-26T10:30:00-07:00,Web of Things,Industry Insights and Unique Perspectives from Women in IoT,2h30m0s,https://www.meetup.com/webofthings-uk/events/237614841/,0,38,UK
+2017-04-26T10:30:00-07:00,London Node.js User Group,LNUG #62 - April 2017,3h0m0s,https://www.meetup.com/london-nodejs/events/235185234/,175,170,UK
+2017-04-26T10:30:00-07:00,DataKind UK,Creating unbiased algorithms in a biased society,0s,https://www.meetup.com/DataKind-UK/events/238622766/,300,292,UK
+2017-04-26T10:30:00-07:00,Neo4j - London User Group,"Graphs for water networks, company metadata, and recipe ontologies",1h30m0s,https://www.meetup.com/graphdb-london/events/238856794/,0,59,UK
+2017-04-26T10:30:00-07:00,UK Cloud Infrastructure User Group,Cloud Security: Moving your Infrastructure to the Cloud with Azure & Office 365,0s,https://www.meetup.com/UK-Cloud-Infrastructure-User-Group/events/238953809/,0,32,UK
+2017-04-26T10:30:00-07:00,Dataiku London Meetup Group,Machine Learning for Retail: Predict Your Customers' Next Purchase,0s,https://www.meetup.com/Dataiku-London-Meetup-Group/events/238794803/,0,71,UK
+2017-04-26T10:30:00-07:00,Imperial Enterprise Lab: Next Practice,Data-driven entrepreneurship: Opportunities in advanced analytics,0s,https://www.meetup.com/nextpractice/events/239079796/,0,16,UK
+2017-04-26T10:30:00-07:00,Data Science Festival - London,Data Science Festival Day 3 - Advanced Analytics for Retail,0s,https://www.meetup.com/Data-Science-Festival-London/events/238977702/,0,91,UK
+2017-04-26T10:30:00-07:00,London NATS Cloud Native User Group,Online meetup - How Choria Improves the Operability of MCollective using NATS,1h0m0s,https://www.meetup.com/London-NATS-Cloud-Native-User-Group/events/239110569/,0,2,UK
+2017-04-26T11:00:00-07:00,Drupal West London,Chiswick (Turnham Green) meetup | Drupal West London,3h0m0s,https://www.meetup.com/Drupal-West-London/events/239165670/,0,3,UK
+2017-04-26T11:00:00-07:00,London VueJS Meetup,London Vue.js #5 - April 26th at Sainsbury's,0s,https://www.meetup.com/London-Vue-js-Meetup/events/238612626/,115,98,UK
+2017-04-27T01:00:00-07:00,OpenSource & Agile Community Events,Fast Track to F# with Tomas Petricek & Phil Trelford - 27 - 28th April 2017,32h0m0s,https://www.meetup.com/skillsmatter/events/236839703/,20,4,UK
+2017-04-27T01:30:00-07:00,Azure for DevOps,Azure For DevOps,4h30m0s,https://www.meetup.com/Azure-for-DevOps/events/239127320/,20,13,UK
+2017-04-27T10:00:00-07:00,London Artificial Intelligence & Deep Learning,Machine Learning Use Case w/ Stack Ensembles,1h30m0s,https://www.meetup.com/London-Artificial-Intelligence-Deep-Learning/events/237916522/,0,290,UK
+2017-04-27T10:00:00-07:00,IOActive's HACK::SOHO,HACK::SOHO - April Edition,0s,https://www.meetup.com/IOActives-HACK-SOHO/events/239153467/,0,9,UK
+2017-04-27T10:00:00-07:00,Data Science Festival - London,(BALLOT TICKET) Data Science Festival Day 4-Autonomous driving and Big Data,0s,https://www.meetup.com/Data-Science-Festival-London/events/238983950/,0,75,UK
+2017-04-27T10:00:00-07:00,Data Science Festival - London,Data Science Festival Day 4–Data and Technology: Disrupting Clinical Trials,3h0m0s,https://www.meetup.com/Data-Science-Festival-London/events/238619897/,0,74,UK
+2017-04-27T10:00:00-07:00,Get-PSUGUK London,April Meetup @ Ticketmaster,0s,https://www.meetup.com/Get-PSUGUK-London/events/238612948/,0,47,UK
+2017-04-27T10:30:00-07:00,All Hands on DevOps,All Hands on DevOps #8 - Thursday 27th of April.,0s,https://www.meetup.com/AHODevOps/events/238492115/,250,103,UK
+2017-04-27T11:00:00-07:00,Ember London,Ember London April 2017 Project Night,0s,https://www.meetup.com/London-Emberjs-User-Group/events/237900428/,20,6,UK
+2017-04-28T01:00:00-07:00,#GenerationE - Tech & Entrepreneurship Conference,#Generation-E - Tech & Entrepreneurship Conference,0s,https://www.meetup.com/GenerationE/events/239134600/,0,15,UK
+2017-04-28T10:00:00-07:00,Data Science Festival - London,"DSF Day 5 - I went to work as an SQL programmer, and left as a hostage.",4h30m0s,https://www.meetup.com/Data-Science-Festival-London/events/239100847/,0,52,UK
+2017-04-28T10:30:00-07:00,Coding Hour London - After work drinks for developers,"Auriens Hackathon -In with the old, out with the new",0s,https://www.meetup.com/Coding-Hour-London-After-work-drinks-for-developers/events/238406288/,0,4,UK
+2017-04-28T10:30:00-07:00,HTML5 CodeShow London,"Auriens Hackathon - In with the old, out with the new",0s,https://www.meetup.com/HTML5-CodeShow/events/238406225/,0,7,UK
+2017-04-28T10:30:00-07:00,Hackathons and Jams UK,"Auriens Hackathon: In with the old, out with the new",48h30m0s,https://www.meetup.com/UK-Hackathons-and-Jams/events/238406373/,0,15,UK
+2017-04-29T01:00:00-07:00,Data Science Festival - London,Data Science Festival Mainstage Day,8h0m0s,https://www.meetup.com/Data-Science-Festival-London/events/237959852/,0,220,UK
+2017-04-29T02:00:00-07:00,Hackathons and Jams UK,NASA Space Apps Challenge,31h0m0s,https://www.meetup.com/UK-Hackathons-and-Jams/events/239286597/,0,33,UK
+2017-04-29T02:30:00-07:00,Hackathons and Jams UK,Realities Centre VR Game Jam,31h30m0s,https://www.meetup.com/UK-Hackathons-and-Jams/events/239352762/,0,9,UK
+2017-04-29T06:00:00-07:00,London Algorithmic Trading,"QuantCon Livestream - PAID EVENT, RSVP Link in Description",9h30m0s,https://www.meetup.com/London-Algorithmic-Trading/events/237527213/,0,7,UK
+2017-05-01T10:00:00-07:00,London Web,Co-Founder Dating & #SpeedPitch (May 2017),0s,https://www.meetup.com/londonweb/events/237849388/,10,10,UK
+2017-05-02T10:00:00-07:00,Amazon Appstore Developers UK,Promote Your App and Get Featured on the Appstore,0s,https://www.meetup.com/amazonappdev/events/238314819/,0,87,UK
+2017-05-02T10:30:00-07:00,JavaScript London,"Workshop: Introduction to ReactJS, ""Thinking in React""",2h30m0s,https://www.meetup.com/JavaScript-London/events/238951714/,30,30,UK
+2017-05-02T10:30:00-07:00,Opensource Graph Technologies,Opensource Graph Technologies: Applications Built with Graphs,2h0m0s,https://www.meetup.com/graphs/events/238564100/,0,104,UK
+2017-05-02T10:30:00-07:00,Rust London User Group,London Rust meetup #13,0s,https://www.meetup.com/Rust-London-User-Group/events/239406097/,0,53,UK
+2017-05-03T10:30:00-07:00,Technopreneurs - Tech Startups and Entrepreneurs,Tech Startups and New Ideas Night,2h45m0s,https://www.meetup.com/technopreneurs/events/235425797/,0,41,UK
+2017-05-03T10:30:00-07:00,London μServices (Microservices) User Group,"Runtimes, Part 1.",0s,https://www.meetup.com/London-Microservices-User-Group/events/233609908/,250,39,UK
+2017-05-03T10:30:00-07:00,CrateDB London User Group,CrateDB User Group Kick Off,0s,https://www.meetup.com/CrateDB-London-User-Group/events/239269618/,0,14,UK
+2017-05-03T10:30:00-07:00,#LNM - London Node.JS Meetup,Node and AMP #LNM,0s,https://www.meetup.com/LNM-London-Node-JS-Meetup/events/239130476/,150,102,UK
+2017-05-03T11:00:00-07:00,Serverless London,Serverless London May Meetup,2h0m0s,https://www.meetup.com/Serverless-London/events/238992509/,130,130,UK
+2017-05-04T09:30:00-07:00,Hyperledger London,Hyperledger London Meetup: Blockchain and the Future,3h30m0s,https://www.meetup.com/Hyperledger-London/events/239127096/,1,2,UK
+2017-05-04T10:00:00-07:00,4th May 2017 :The London Storage Tapefest 2!,Please join us on the 4th May for TAPEFEST 2,0s,https://www.meetup.com/4th-May-2017-The-London-Storage-Tapefest-2/events/238582772/,0,21,UK
+2017-05-04T10:00:00-07:00,FUD-free Cloud,Workshop: Resource as a Service using Azure Container Services,0s,https://www.meetup.com/FUD-free-Cloud/events/239481022/,40,8,UK
+2017-05-04T10:00:00-07:00,Pentaho London Usergroup,2017 Q2 Meetup - Data pipelines in Amazon,0s,https://www.meetup.com/Pentaho-London-User-Group/events/237192383/,0,23,UK
+2017-05-04T10:30:00-07:00,Kotlin London,Springer Nature Kotlin,3h0m0s,https://www.meetup.com/kotlin-london/events/239327485/,100,46,UK
+2017-05-04T10:30:00-07:00,OpenSource & Agile Community Events,Can Blockchain bring a 17th Century Industry into the 21st Century?,0s,https://www.meetup.com/skillsmatter/events/238766817/,0,32,UK
+2017-05-04T10:30:00-07:00,OpenSource & Agile Community Events,Can Blockchain bring a 17th Century Industry into the 21st Century?,0s,https://www.meetup.com/skillsmatter/events/238984279/,0,18,UK
+2017-05-04T10:30:00-07:00,PyData London Meetup,Women @ PyData Reception,2h0m0s,https://www.meetup.com/PyData-London-Meetup/events/239193377/,100,93,UK
+2017-05-06T01:30:00-07:00,UK Azure User Group,"AzureCraft 2017: AI, Azure and Minecraft for Kids",6h0m0s,https://www.meetup.com/UKAzureUserGroup/events/237448906/,132,132,UK
+2017-05-08T10:30:00-07:00,West London Hack Night,Coding Challenges for All Languages,0s,https://www.meetup.com/West-London-Hack-Night/events/238979510/,0,23,UK
+2017-05-08T10:30:00-07:00,OpenSource & Agile Community Events,Why Regular Expressions Matter with Chris Dornan!,0s,https://www.meetup.com/skillsmatter/events/238742478/,0,9,UK
+2017-05-08T10:30:00-07:00,Amazic UK: Enterprise Docker and DevOps,Enterprise Security - Docker & DevOps cyber defence and compliance,0s,https://www.meetup.com/amazic/events/239294268/,0,32,UK
+2017-05-08T10:30:00-07:00,London MicroPython Meetup,"Meet, learn and share ideas about MicroPython",1h30m0s,https://www.meetup.com/London-MicroPython-Meetup/events/239131021/,30,17,UK
+2017-05-08T10:30:00-07:00,OpenSource & Agile Community Events,Learning Analytics - what is it and why is it so difficult? With Samantha Ahern!,0s,https://www.meetup.com/skillsmatter/events/238981313/,0,8,UK
+2017-05-08T11:00:00-07:00,London Clojurians,London Clojure Dojo at uSwitch,0s,https://www.meetup.com/London-Clojurians/events/233202948/,40,4,UK
+2017-05-09T10:00:00-07:00,London HalfStack,May meetup: TBD,4h0m0s,https://www.meetup.com/halfstack/events/238826210/,110,20,UK
+2017-05-09T10:15:00-07:00,London DevOps,London DevOps #27,0s,https://www.meetup.com/London-DevOps/events/238827729/,0,3,UK
+2017-05-09T10:30:00-07:00,OpenSource & Agile Community Events,10-ish things about Android library development with Zan Markan!,0s,https://www.meetup.com/skillsmatter/events/238982576/,0,7,UK
+2017-05-09T10:30:00-07:00,WP Hooked,May Meet Up,0s,https://www.meetup.com/wp_hooked/events/239153970/,0,26,UK
+2017-05-09T10:30:00-07:00,QuruLabs - Somerset House,"Part II “Hands on"" Ansible by Red Hat deployment for business",0s,https://www.meetup.com/QuruLabs/events/238797281/,18,14,UK
+2017-05-09T11:00:00-07:00,The London Django Meetup Group,May Django Meetup,3h0m0s,https://www.meetup.com/The-London-Django-Meetup-Group/events/239180132/,0,36,UK
+2017-05-10T10:00:00-07:00,Neo4j - London User Group,GraphHack @ GraphConnect 2017,3h30m0s,https://www.meetup.com/graphdb-london/events/237040841/,150,54,UK
+2017-05-10T10:00:00-07:00,London Puppet User Group,London Puppet User Group Meetup,0s,https://www.meetup.com/LONPUG/events/239108542/,120,57,UK
+2017-05-10T10:30:00-07:00,Full Stack Quants,TBC,1h30m0s,https://www.meetup.com/Full-Stack-Quants/events/239190578/,75,17,UK
+2017-05-10T10:30:00-07:00,London Alexa Devs,London Alexa Devs - 6th Meetup!,0s,https://www.meetup.com/London-Alexa-Devs/events/239181169/,60,23,UK
+2017-05-10T11:00:00-07:00,London Linux,London Linux Drinks (every 3rd week),0s,https://www.meetup.com/londonlinux/events/238852754/,0,5,UK
+2017-05-11T01:00:00-07:00,Neo4j - London User Group,GraphConnect Europe,0s,https://www.meetup.com/graphdb-london/events/236212603/,0,14,UK
+2017-05-11T00:00:00-07:00,Graph Database - Lyon,GraphConnect Europe,0s,https://www.meetup.com/graphdb-Lyon/events/236212453/,0,4,UK
+2017-05-11T00:00:00-07:00,Graph Database - Göteborg,GraphConnect Europe,0s,https://www.meetup.com/Graph-Database-Goteborg/events/236212450/,0,3,UK
+2017-05-11T00:00:00-07:00,Copenhagen Graph Databases Meetup,GraphConnect Europe,0s,https://www.meetup.com/Copenhagen-Graph-Databases-Meetup/events/236212285/,0,5,UK
+2017-05-11T00:00:00-07:00,Neo4j España,GraphConnect Europe,0s,https://www.meetup.com/graphdb-spain/events/236212621/,0,3,UK
+2017-05-11T00:00:00-07:00,Neo4j - Venice User Group,GraphConnect Europe,0s,https://www.meetup.com/neo4j-venice/events/236373043/,0,5,UK
+2017-05-11T00:00:00-07:00,Friends of Neo4j Stockholm,GraphConnect Europe,0s,https://www.meetup.com/Friends-of-Neo4j-Stockholm/events/236212327/,0,4,UK
+2017-05-11T10:30:00-07:00,OpenSource & Agile Community Events,Full Stack BDD for iOS inside Xcode with Shashikant Jagtap!,0s,https://www.meetup.com/skillsmatter/events/238931592/,0,6,UK
+2017-05-11T10:30:00-07:00,London Data Engineering Interest Group,Securing Big Data and how Big Data secures IT.,0s,https://www.meetup.com/London-Data-Engineering-Interest-Group/events/238928824/,0,49,UK
+2017-05-11T11:00:00-07:00,Neo4j Manchester,GraphConnect Europe,0s,https://www.meetup.com/Neo4j-Manchester/events/236212639/,0,4,UK
+2017-05-13T04:00:00-07:00,Autonomous Tech Fetish,Make and Do Club: Webscraping for Political Action,4h0m0s,https://www.meetup.com/Autonomous-Tech-Fetish/events/239210406/,0,3,UK
+2017-05-15T10:00:00-07:00,LondonR,LondonR User Group Meeting (and pre-meeting workshop),0s,https://www.meetup.com/LondonR/events/238793625/,0,69,UK
+2017-05-15T10:30:00-07:00,OpenSource & Agile Community Events,Free vs tagless final with Chris Birchall!,0s,https://www.meetup.com/skillsmatter/events/238984383/,0,5,UK
+2017-05-16T10:30:00-07:00,Ruby Hacknight - London,Ruby Hacknight!,2h0m0s,https://www.meetup.com/ruby-hacknight-london/events/238929528/,0,33,UK
+2017-05-16T10:30:00-07:00,LJC - London Java Community,Building Evolutionary Architectures,0s,https://www.meetup.com/Londonjavacommunity/events/239006335/,0,121,UK
+2017-05-16T10:30:00-07:00,London HashiCorp User Group,HashiCorp Meetup #11,0s,https://www.meetup.com/London-HashiCorp-User-Group/events/239321379/,150,150,UK
+2017-05-16T11:00:00-07:00,WP Havering,"Meetings will be held monthly,  on the 3rd TUESDAY of the month at 6pm-8pm",0s,https://www.meetup.com/WP-Havering/events/239306473/,0,4,UK
+2017-05-16T11:00:00-07:00,Internet of Things London,London Internet of Things Meetup 66,2h0m0s,https://www.meetup.com/iotlondon/events/239108387/,120,120,UK
+2017-05-17T10:15:00-07:00,London Dev Community,Aginext.io Evening,0s,https://www.meetup.com/London-Dev-Community/events/239284147/,90,10,UK
+2017-05-17T10:30:00-07:00,OpenSource & Agile Community Events,Collaboration Driven Development outside in – peeling away the layers!,0s,https://www.meetup.com/skillsmatter/events/238984064/,0,8,UK
+2017-05-17T11:00:00-07:00,[CyberSecurity] Compliance & Futurology London,CyberSecurity Talks & Networking,2h30m0s,https://www.meetup.com/CyberSecurity-IoT-Hacking-Futurology-London/events/238979141/,0,24,UK
+2017-05-17T11:00:00-07:00,Cybersecurity Talks,CyberSecurity Talks & Networking,2h30m0s,https://www.meetup.com/CyberSecurity-Talks/events/238979151/,0,28,UK
+2017-05-18T10:00:00-07:00,Technology Managed Service Providers- Curry Club,Are you GDPR ready? - MSP Curry Evening,0s,https://www.meetup.com/Technology-Managed-Service-Providers-Curry-Club/events/239007308/,0,17,UK
+2017-05-18T10:30:00-07:00,Open Charity,How and why we made our codebase open source - Guest speakers and Q&A,2h0m0s,https://www.meetup.com/Open-Charity/events/238237896/,50,25,UK
+2017-05-22T00:00:00-07:00,London Algorithmic Trading,Strata + Hadoop World London 2017,81h30m0s,https://www.meetup.com/London-Algorithmic-Trading/events/237220350/,0,28,UK
+2017-05-22T10:30:00-07:00,LPWAN London,LPWAN Meetup London #6,0s,https://www.meetup.com/LPWAN-London/events/239385103/,80,41,UK
+2017-05-23T09:45:00-07:00,Study Of Enterprise Agility Meetup (SEAM) - London,SEAM #6 - Inclusion and Diversity,0s,https://www.meetup.com/Study-Of-Enterprise-Agility-Meetup/events/239331051/,0,24,UK
+2017-05-23T10:30:00-07:00,Big Data and Machine Learning - London,Big Data and Machine Learning - London - Meetup #4,3h0m0s,https://www.meetup.com/Big-Data-and-Machine-Learning-London/events/237905527/,80,80,UK
+2017-05-23T10:30:00-07:00,London Continuous Delivery,"May 2017: Continuous Delivery, Data, and Databases",0s,https://www.meetup.com/London-Continuous-Delivery/events/239299249/,100,61,UK
+2017-05-23T10:30:00-07:00,London Identity Tech Talks,Identity Tech Talk,0s,https://www.meetup.com/London-Identity-Tech-Talks/events/237845055/,0,13,UK
+2017-05-24T01:00:00-07:00,OpenSource & Agile Community Events,Fast Track to RESTful Microservices 24-26 May 2017,56h0m0s,https://www.meetup.com/skillsmatter/events/236257857/,20,3,UK
+2017-05-24T10:00:00-07:00,Advanced Spark and TensorFlow Meetup (London),"Optimize + Deploy Distributed Tensorflow, Spark, and Scikit-Learn Models on GPUs",3h0m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup-London/events/239431531/,0,22,UK
+2017-05-24T18:00:00-07:00,Advanced Spark and TensorFlow Meetup,"[London] Optimize, Deploy Distributed Tensorflow, Spark, Scikit-Learn Models GPU",3h0m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/239432012/,0,16,UK
+2017-05-24T10:00:00-07:00,Argyll Scott London Technology Meetup,Discussion: What technologies and work practices will we have in 2036?,0s,https://www.meetup.com/Argyll-Scott-London-Technology-Meetup-Group/events/230745469/,0,13,UK
+2017-05-24T10:30:00-07:00,OpenSource & Agile Community Events,A Deep dive into MBrace.Sql with Anthony Brown!,0s,https://www.meetup.com/skillsmatter/events/238958756/,0,4,UK
+2017-05-24T10:30:00-07:00,London Node.js User Group,LNUG monthly (every 4th Wednesday of the month),3h30m0s,https://www.meetup.com/london-nodejs/events/235754898/,175,41,UK
+2017-05-24T10:30:00-07:00,OpenSource & Agile Community Events,Aframe: Building The Open Metaverse with Shaun Dunne!,0s,https://www.meetup.com/skillsmatter/events/238981582/,0,4,UK
+2017-05-24T10:30:00-07:00,GDG Cloud London,5 : TensorFlow + Customer Service and much more,0s,https://www.meetup.com/gdgcloud/events/237703920/,250,75,UK
+2017-05-24T10:30:00-07:00,Node Workshops,"Promises, Promises... and Async & Await",0s,https://www.meetup.com/NodeWorkshops/events/239013328/,30,30,UK
+2017-05-25T01:00:00-07:00,OpenSource & Agile Community Events,London Tester Tutorials 2017 (25-26th May),32h0m0s,https://www.meetup.com/skillsmatter/events/239477396/,0,3,UK
+2017-05-25T01:30:00-07:00,UK Azure User Group,Scott Gu in London on 25th May,0s,https://www.meetup.com/UKAzureUserGroup/events/239087685/,1,1,UK
+2017-05-25T09:30:00-07:00,London Containing Bioinformatics & Data Analytics,Working Title: Pipelines for Clinical NGS,0s,https://www.meetup.com/London-Containing-Bioinformatics-Data-Analytics-Meetup/events/237604046/,0,26,UK
+2017-05-25T10:30:00-07:00,"Internet of things,Smart cities,start ups  CONNECTiot",Internet of Things and Smart Cities,2h0m0s,https://www.meetup.com/CONNECTIOT-Smart-cities-Connected-Devices-IoT-Start-ups/events/238940304/,0,33,UK
+2017-05-25T10:30:00-07:00,Women Who Code London,.Net Workshop - Beginner friendly,2h0m0s,https://www.meetup.com/Women-Who-Code-London/events/236319616/,60,60,UK
+2017-05-25T11:00:00-07:00,SecTalks London,"SecTalks LON: Ninja Night (Level 7, 10 Finsbury Square)",0s,https://www.meetup.com/SecTalks-London/events/237838224/,25,9,UK
+2017-05-26T11:00:00-07:00,Hackathons and Jams UK,Online Tech Jam- General Election 2017 Tech Initiatives,305h0m0s,https://www.meetup.com/UK-Hackathons-and-Jams/events/239404148/,0,8,UK
+2017-05-27T00:30:00-07:00,Advanced Spark and TensorFlow Meetup,[Online Global] Distributed Tensorflow AI + GPU + Model Optimizing Serving (20%),16h0m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/239327749/,0,36,UK
+2017-05-27T00:30:00-07:00,Advanced Spark and TensorFlow Meetup (London),[Online Workshop] Distributed Tensorflow AI + GPU + Model Training Serving (20%),4h0m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup-London/events/239431066/,0,8,UK
+2017-05-30T10:30:00-07:00,OpenSource & Agile Community Events,Providing Cloud Services to Cloud Foundry & Kubernetes with the OSBAPI!,0s,https://www.meetup.com/skillsmatter/events/238983420/,0,5,UK
+2017-05-30T11:00:00-07:00,London Drupal Pub Meet,Drink Beer and Chat Drupal!,0s,https://www.meetup.com/London-Drupal-Pub-Meet/events/238052749/,0,8,UK
+2017-05-31T10:00:00-07:00,London μServices (Microservices) User Group,Effective Testing with API Simulation and (Micro)Service Virtualisation,3h0m0s,https://www.meetup.com/London-Microservices-User-Group/events/238852669/,25,25,UK
+2017-05-31T10:30:00-07:00,AWS User Group UK,AWS User Group UK Meetup #26: RSVPs OPEN.,3h0m0s,https://www.meetup.com/AWSUGUK/events/234752225/,0,163,UK
+2017-05-31T11:00:00-07:00,Kx Community London Meetup,Kx Community London Meetup ,0s,https://www.meetup.com/kx-london/events/239322775/,0,6,UK
+2017-05-31T11:00:00-07:00,London Linux,London Linux Drinks (every 3rd week),0s,https://www.meetup.com/londonlinux/events/239328465/,0,5,UK
+2017-06-01T10:00:00-07:00,ANDchat,"Wrap your head around Node.js in 2017, with Tom Gallacher from YLD",0s,https://www.meetup.com/andchat/events/239355004/,100,35,UK
+2017-06-02T10:30:00-07:00,London Clojurians,ClojureBridge London @ ThoughtWorks - 2-3rd June 2017,22h30m0s,https://www.meetup.com/London-Clojurians/events/238697990/,40,11,UK
+2017-06-02T10:30:00-07:00,London Clojurians,Volunteers for ClojureBridge London @ ThoughtWorks - 2-3rd June 2017,22h30m0s,https://www.meetup.com/London-Clojurians/events/238697973/,0,13,UK
+2017-06-05T02:00:00-07:00,Cloud Natives,Cloud Foundry Training,104h0m0s,https://www.meetup.com/Cloud-Natives/events/239351563/,0,4,UK
+2017-06-06T10:15:00-07:00,London DevOps,London DevOps #28,0s,https://www.meetup.com/London-DevOps/events/238827763/,0,3,UK
+2017-06-07T10:30:00-07:00,London μServices (Microservices) User Group,Organisation And The Business ,0s,https://www.meetup.com/London-Microservices-User-Group/events/233609913/,250,20,UK
+2017-06-07T10:30:00-07:00,Technopreneurs - Tech Startups and Entrepreneurs,Tech Startups and New Ideas Night,2h45m0s,https://www.meetup.com/technopreneurs/events/236159275/,0,5,UK
+2017-06-07T10:30:00-07:00,#LNM - London Node.JS Meetup,Node and Containers in production #LNM,0s,https://www.meetup.com/LNM-London-Node-JS-Meetup/events/239101510/,200,68,UK
+2017-06-10T02:00:00-07:00,Data Science Network London,Data Science for Newbies,0s,https://www.meetup.com/datasciencenetworklondon/events/239115935/,20,14,UK
+2017-06-12T10:30:00-07:00,London Continuous Delivery,June 2017: Open Space discussions on Continuous Delivery,0s,https://www.meetup.com/London-Continuous-Delivery/events/239329781/,0,3,UK
+2017-06-12T10:00:00-07:00,MarkLogic User Group Benelux,"Please mark your calendars for our next meetup, in London !",3h0m0s,https://www.meetup.com/MarkLogic-User-Group-Benelux/events/238981298/,0,8,UK
+2017-06-13T10:30:00-07:00,WP Hooked,June Meet Up,0s,https://www.meetup.com/wp_hooked/events/239153975/,0,5,UK
+2017-06-13T10:30:00-07:00,Full Stack Quants,TBC,1h30m0s,https://www.meetup.com/Full-Stack-Quants/events/239190594/,75,9,UK
+2017-06-14T10:00:00-07:00,BCS Agile SG - Fresh Voices,[PROVISIONAL] Fresh Voices #5,0s,https://www.meetup.com/BCS-Agile-SG-Fresh-Voices/events/234463267/,30,3,UK
+2017-06-14T18:00:00-07:00,Symphony Software Foundation,Symphony Software Foundation London meetup,0s,https://www.meetup.com/Symphony-Software-Foundation/events/239185200/,50,7,UK
+2017-06-15T10:30:00-07:00,Women Who Code London,Ruby Workshop,2h0m0s,https://www.meetup.com/Women-Who-Code-London/events/232082785/,0,10,UK
+2017-06-15T10:30:00-07:00,Chef Users London,Post-ChefConf Party!,0s,https://www.meetup.com/Chef-Users-London/events/238052466/,0,18,UK
+2017-06-17T01:00:00-07:00,Hackathons and Jams UK,AngelHack,33h0m0s,https://www.meetup.com/UK-Hackathons-and-Jams/events/238533153/,0,16,UK
+2017-06-20T10:30:00-07:00,Ruby Hacknight - London,Ruby Hacknight!,2h0m0s,https://www.meetup.com/ruby-hacknight-london/events/239293972/,0,6,UK
+2017-06-20T10:45:00-07:00,Women Who Code London,Scala Workshop,1h45m0s,https://www.meetup.com/Women-Who-Code-London/events/238583017/,100,21,UK
+2017-06-20T11:00:00-07:00,WP Havering,"Meetings will be held monthly,  on the 3rd TUESDAY of the month at 6pm-8pm",0s,https://www.meetup.com/WP-Havering/events/238884298/,0,3,UK
+2017-06-22T11:00:00-07:00,London Lean Enterprise Meetup,Introducing the Improvement and Coaching Kata (ICK),0s,https://www.meetup.com/London-Lean-Enterprise-Meetup/events/234721734/,50,31,UK
+2017-06-22T11:00:00-07:00,Kx Community London Meetup,Kx Community Meetup 2017,0s,https://www.meetup.com/kx-london/events/237364193/,0,16,UK
+2017-06-23T11:00:00-07:00,Startups and Makers Week,Global AI Hackathon - London,47h0m0s,https://www.meetup.com/Startups-and-Makers-Week/events/237997661/,0,22,UK
+2017-06-27T10:00:00-07:00,Amazon Appstore Developers UK,Save the date - June Meetup,0s,https://www.meetup.com/amazonappdev/events/238314834/,0,8,UK
+2017-06-27T10:30:00-07:00,JavaScript London,"Adopting ReactJS, successful stories",2h30m0s,https://www.meetup.com/JavaScript-London/events/239034715/,1,1,UK
+2017-06-27T10:30:00-07:00,London Identity Tech Talks,Identity Tech Talk,0s,https://www.meetup.com/London-Identity-Tech-Talks/events/237845124/,0,4,UK
+2017-06-27T10:30:00-07:00,"GOTO Nights - London, UK",I've been a web developer for 17 years and this is what I've learned,2h0m0s,https://www.meetup.com/GOTO-Nights-London-UK/events/239182846/,120,47,UK
+2017-06-28T01:30:00-07:00,London Algorithmic Trading,"AI, Machine Learning and Sentiment Analysis Applied to Finance - EXTERNAL RSVP",31h30m0s,https://www.meetup.com/London-Algorithmic-Trading/events/239358438/,0,26,UK
+2017-06-28T10:30:00-07:00,London Node.js User Group,LNUG monthly (every 4th Wednesday of the month),3h30m0s,https://www.meetup.com/london-nodejs/events/235784076/,175,17,UK
+2017-06-29T10:00:00-07:00,Convergence - where tech meets,Convergence London - Creative Industries,0s,https://www.meetup.com/Convergence-where-tech-meets/events/238413446/,0,88,UK
+2017-06-29T10:30:00-07:00,London Perl Mongers,London PM Tech Meet Up,0s,https://www.meetup.com/London-Perl-Mongers/events/237578057/,30,30,UK
+2017-07-04T00:00:00-07:00,London PostgreSQL Meetup Group,PgDay UK 2017,10h0m0s,https://www.meetup.com/London-PostgreSQL-Meetup-Group/events/238980167/,0,4,UK
+2017-07-05T10:30:00-07:00,London μServices (Microservices) User Group,"Runtimes, Part 2",0s,https://www.meetup.com/London-Microservices-User-Group/events/233609914/,250,13,UK
+2017-07-07T08:00:00-07:00,Operational Excellence,OPEX 1 - Operational Maturity,2h0m0s,https://www.meetup.com/Operational-Excellence/events/239014295/,30,4,UK
+2017-07-10T10:30:00-07:00,Full Stack Quants,TBC,1h30m0s,https://www.meetup.com/Full-Stack-Quants/events/239190609/,75,8,UK
+2017-07-11T10:30:00-07:00,WP Hooked,July Meet Up,0s,https://www.meetup.com/wp_hooked/events/239153978/,0,5,UK
+2017-07-12T10:30:00-07:00,Women Who Code London,Tech Talks,2h0m0s,https://www.meetup.com/Women-Who-Code-London/events/238594735/,120,42,UK
+2017-07-18T10:00:00-07:00,Amazon Appstore Developers UK,Save the date - July Meetup,0s,https://www.meetup.com/amazonappdev/events/238314839/,0,6,UK
+2017-07-25T10:30:00-07:00,#LNM - London Node.JS Meetup,JS turtles all the way down - from the front-end to deployment  #LNM,0s,https://www.meetup.com/LNM-London-Node-JS-Meetup/events/238575982/,220,73,UK
+2017-07-26T10:00:00-07:00,BCS Agile SG - Fresh Voices,[PROVISIONAL] Fresh Voices #6,0s,https://www.meetup.com/BCS-Agile-SG-Fresh-Voices/events/234462063/,30,3,UK
+2017-07-26T10:30:00-07:00,London Node.js User Group,LNUG monthly (every 4th Wednesday of the month),3h30m0s,https://www.meetup.com/london-nodejs/events/236872170/,175,12,UK
+2017-07-27T09:30:00-07:00,London Containing Bioinformatics & Data Analytics,Better Search for Bioinformatics with BioSolr,0s,https://www.meetup.com/London-Containing-Bioinformatics-Data-Analytics-Meetup/events/237604029/,0,12,UK
+2017-08-02T10:30:00-07:00,London μServices (Microservices) User Group,Platforms,0s,https://www.meetup.com/London-Microservices-User-Group/events/233609915/,250,6,UK
+2017-08-08T02:00:00-07:00,HTML5 CodeShow London,The Intel® Buzz Workshop London 2017,0s,https://www.meetup.com/HTML5-CodeShow/events/237729117/,0,6,UK
+2017-08-08T10:30:00-07:00,WP Hooked,August Meet Up,0s,https://www.meetup.com/wp_hooked/events/239153981/,0,5,UK
+2017-08-23T10:30:00-07:00,London Node.js User Group,LNUG monthly (every 4th Wednesday of the month),3h30m0s,https://www.meetup.com/london-nodejs/events/236872171/,175,9,UK
+2017-09-06T10:30:00-07:00,London μServices (Microservices) User Group,Data In A Distributed World,0s,https://www.meetup.com/London-Microservices-User-Group/events/236872163/,250,5,UK
+2017-09-12T10:30:00-07:00,WP Hooked,September Meet Up,0s,https://www.meetup.com/wp_hooked/events/239153982/,0,5,UK
+2017-09-27T10:30:00-07:00,London Node.js User Group,LNUG monthly (every 4th Wednesday of the month),3h30m0s,https://www.meetup.com/london-nodejs/events/236872173/,175,6,UK
+2017-09-28T10:30:00-07:00,London Perl Mongers,London PM Tech Meet UP,0s,https://www.meetup.com/London-Perl-Mongers/events/237695878/,0,24,UK
+2017-09-28T11:00:00-07:00,London Containing Bioinformatics & Data Analytics,The Introductions...com­ing in 2017,0s,https://www.meetup.com/London-Containing-Bioinformatics-Data-Analytics-Meetup/events/228638422/,50,50,UK
+2017-10-10T10:30:00-07:00,WP Hooked,October Meet Up,0s,https://www.meetup.com/wp_hooked/events/239153991/,0,5,UK
+2017-10-25T10:30:00-07:00,London Node.js User Group,LNUG monthly (every 4th Wednesday of the month),3h30m0s,https://www.meetup.com/london-nodejs/events/236872174/,175,5,UK
+2017-11-09T10:30:00-08:00,London Perl Mongers,London Tech Meet Up,0s,https://www.meetup.com/London-Perl-Mongers/events/237670825/,0,20,UK
+2017-11-22T10:30:00-08:00,London Node.js User Group,LNUG monthly (every 4th Wednesday of the month),3h30m0s,https://www.meetup.com/london-nodejs/events/236872175/,175,5,UK
+2017-12-27T10:30:00-08:00,London Node.js User Group,LNUG monthly (every 4th Wednesday of the month),3h30m0s,https://www.meetup.com/london-nodejs/events/236872176/,175,5,UK
+2018-01-24T10:30:00-08:00,London Node.js User Group,LNUG monthly (every 4th Wednesday of the month),3h30m0s,https://www.meetup.com/london-nodejs/events/237158853/,175,5,UK
+2018-02-28T10:30:00-08:00,London Node.js User Group,LNUG monthly (every 4th Wednesday of the month),3h30m0s,https://www.meetup.com/london-nodejs/events/238051707/,175,5,UK
+2018-03-28T10:30:00-07:00,London Node.js User Group,LNUG monthly (every 4th Wednesday of the month),3h30m0s,https://www.meetup.com/london-nodejs/events/239180635/,175,4,UK
+2018-12-31T11:00:00-08:00,Advanced Spark and TensorFlow Meetup (London),Please Join the Global Advanced Spark + TensorFlow Meetup for All Future Events!,0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup-London/events/233998540/,1,1,UK
+2019-01-01T11:00:00-08:00,Node.js Meetup London,Looking for a job in London / looking for node.js developers? www.upandfront.com,0s,https://www.meetup.com/Node-js-Meetup-London/events/230852789/,1,1,UK
+2017-04-25T05:00:00-07:00,"Byte Academy: Python, FinTech, Blockchain,DataSci, Quant",FinTech Partner Event: Empire Startups FinTech Conference,10h0m0s,https://www.meetup.com/Byte-Academy-Finance-and-Technology-community/events/239222855/,0,12,NYC
+2017-05-02T14:30:00-07:00,New York Artificial Intelligence in FinTech Meetup,Interested in solving current Cybersecurity Challenges in Innovation?,1h0m0s,https://www.meetup.com/New-York-Artificial-Intelligence-in-FinTech-Meetup/events/239432478/,0,14,NYC
+2017-04-25T15:00:00-07:00,Hacker Hours,Tuesdays @ VTS,2h0m0s,https://www.meetup.com/hackerhours/events/238772555/,0,14,NYC
+2017-04-25T15:00:00-07:00,Xero Hour - New York,You’ve made it! Tax season is over...time to get back to #XeroHour,0s,https://www.meetup.com/Xero-Hour-New-York/events/239192893/,0,26,NYC
+2017-04-25T15:00:00-07:00,Tech 2025,"What’s the Difference Between AI, Machine Learning, NLP, and Deep Learning?",2h0m0s,https://www.meetup.com/tech2025/events/238546810/,0,128,NYC
+2017-04-25T15:00:00-07:00,Empathic Design and Innovation,Let's talk Kansei,1h0m0s,https://www.meetup.com/Empathic-Design-and-Innovation/events/239155202/,0,30,NYC
+2017-04-25T15:00:00-07:00,Spotify Infra/Ops meetup!,Spotify’s Infrastructure & Operations Meetup,0s,https://www.meetup.com/Spotify-Infra-Ops-meetup/events/238063034/,150,95,NYC
+2017-04-25T15:00:00-07:00,New York MongoDB User Group,Workshop: My First Cluster,0s,https://www.meetup.com/New-York-MongoDB-User-Group/events/238752734/,0,96,NYC
+2017-04-25T15:00:00-07:00,Women Who Code NYC,Workshop: Integrating + Managing APIs @ Foursquare,2h30m0s,https://www.meetup.com/WomenWhoCodeNYC/events/238983910/,150,129,NYC
+2017-04-25T15:00:00-07:00,Angular NYC,#Advanced [Tuesday] #coding #8Spots: work on new version of the Angular Codelab,0s,https://www.meetup.com/AngularNYC/events/239444184/,8,5,NYC
+2017-04-25T15:00:00-07:00,"Volumetric Society of NYC - Immersion, Biometrics, Sensors +",VR/Retro Gaming Party!!!,3h0m0s,https://www.meetup.com/volumetric/events/239158791/,0,63,NYC
+2017-04-25T15:00:00-07:00,The Bronx Digital  - Learn. Create. Collaborate.,Retro/VR Gaming Party!!! (Manhattan),3h0m0s,https://www.meetup.com/TheBronxDigitalMeetup/events/238898666/,0,50,NYC
+2017-04-25T15:00:00-07:00,Queens & Long Island Tech Meetup,DaniWeb Techie Meetup - Last Tues of the Month,0s,https://www.meetup.com/DaniWeb-LITM/events/234162348/,50,14,NYC
+2017-04-25T15:30:00-07:00,Crowded Tech Jobs Meetup!,Crowded Tech Jobs Meetup!,2h0m0s,https://www.meetup.com/Crowded-Tech-Jobs-Meetup/events/237005165/,600,600,NYC
+2017-04-25T15:30:00-07:00,Phoenix NYC Meetup,Phoenix NYC Meetup & Hack Night (Apr),0s,https://www.meetup.com/Phoenix-NYC-Meetup/events/238248327/,0,14,NYC
+2017-04-25T15:30:00-07:00,BK Tech Talks,React Native Discussion - Understanding the framework,1h30m0s,https://www.meetup.com/BK-Tech-Talks/events/238195290/,0,40,NYC
+2017-04-25T15:30:00-07:00,Flatiron School Presents,"Being the Best Student You Can with Jordan Guggenheim, iOS Developer at OkCupid",0s,https://www.meetup.com/Flatiron-School-Presents/events/239306695/,0,54,NYC
+2017-04-25T15:30:00-07:00,Code & Craft,Code & Craft: Interconnected,0s,https://www.meetup.com/code-and-craft/events/239179672/,0,8,NYC
+2017-04-25T16:00:00-07:00,"COMMUNICATE: Your Rights, Your Money, Your Networks",Inaugural Meeting: Come say hello and help save Our Digital Future,2h0m0s,https://www.meetup.com/COMMUNICATE-Your-Rights-Your-Money-Your-Networks/events/239150903/,0,8,NYC
+2017-04-25T16:00:00-07:00,Learn Python NYC,Tuesday Office Hours,3h0m0s,https://www.meetup.com/learn-python-nyc/events/239147114/,40,35,NYC
+2017-04-25T16:00:00-07:00,Deep Dive into Python: Know Thy Interpreter,"Let's Fix Some Real-World ""Memory Leaks""",0s,https://www.meetup.com/Deep-Dive-into-Python-Know-Thy-Interpreter/events/239162372/,0,58,NYC
+2017-04-25T16:00:00-07:00,fat cat FAB LAB,Software Defined Radio: guest speaker Dr. Tom Rondeau!,0s,https://www.meetup.com/fat-cat-fab-lab/events/239393241/,50,27,NYC
+2017-04-25T16:15:00-07:00,ACM New York City,How search engines work and how to make them work for you,3h0m0s,https://www.meetup.com/ACM-NY/events/239307556/,90,80,NYC
+2017-04-25T16:30:00-07:00,New Jersey Linux User Group,Our monthly Linux User Group Meeting....,2h30m0s,https://www.meetup.com/NJLinux/events/238789604/,20,13,NYC
+2017-04-25T17:30:00-07:00,Hacker Hours,Late Night @ Whole Foods - Midtown East (cafe),0s,https://www.meetup.com/hackerhours/events/239274928/,0,9,NYC
+2017-04-26T05:00:00-07:00,WOS - Women in Open Source,TTD Demo Day,9h0m0s,https://www.meetup.com/meetup-group-women-in-open-source/events/237599940/,17,17,NYC
+2017-04-26T05:45:00-07:00,Opportunities for NYC Technology & Finance Professionals,Transform your business with Marketing Metrics & Analytics,0s,https://www.meetup.com/ZorkasFinTechs/events/238286563/,0,4,NYC
+2017-04-26T09:00:00-07:00,Build with Code - New York City,100 Days of Impact @ Impact Hub NYC: Fundamentals of Programming (Beg. Workshop),1h0m0s,https://www.meetup.com/Build-with-Code-New-York/events/238842929/,0,17,NYC
+2017-04-26T10:00:00-07:00,"Big Data (native Hadoop) Ingest & Transform, New York",Intro to Big Data AppHub: Kinesis to S3 & S3 to HDFS Sync App Templates,2h0m0s,https://www.meetup.com/Big-Data-Ingest-New-York/events/239364084/,0,9,NYC
+2017-04-26T10:00:00-07:00,Big Data Hadoop Ingest Transform Apex New York Online,Intro to Big Data AppHub: Kinesis to S3 & S3 to HDFS Sync App Templates,2h0m0s,https://www.meetup.com/Big-Data-Hadoop-Ingest-Transform-Apex-New-York-Online/events/239364081/,0,12,NYC
+2017-04-26T11:00:00-07:00,IoT Central | NYC  (Internet of Things Events),"IoT Security Briefing by Olaf Kolkman (Chief Internet Technology Officer, ISOC)",2h45m0s,https://www.meetup.com/NYCIOT/events/239317463/,35,12,NYC
+2017-04-26T14:45:00-07:00,Code Driven NYC (a FirstMark Event),Code Driven #18 (A FirstMark Event),3h15m0s,https://www.meetup.com/Code-Driven-NYC/events/238750053/,0,186,NYC
+2017-04-26T15:00:00-07:00,Django-NYC,Django Hacknight at WeWork,0s,https://www.meetup.com/django-nyc/events/239194626/,0,40,NYC
+2017-04-26T15:00:00-07:00,NYC Sales Ops Meetup,Sales Metrics that Matter,2h0m0s,https://www.meetup.com/NYC-Sales-Ops-Meetup/events/238484414/,0,64,NYC
+2017-04-26T15:00:00-07:00,WOS - Women in Open Source,TTD Collaborative Learning Panel,3h0m0s,https://www.meetup.com/meetup-group-women-in-open-source/events/237739214/,15,13,NYC
+2017-04-26T15:00:00-07:00,NYC Open Data,Techniques for Modeling Extreme Finance in R,2h0m0s,https://www.meetup.com/NYC-Open-Data/events/239104619/,150,150,NYC
+2017-04-26T15:30:00-07:00,Women Who Code NYC,Women in iOSoho + Women Who Code workshop @ LinkedIn: iMessage Stickers,2h30m0s,https://www.meetup.com/WomenWhoCodeNYC/events/237522961/,50,39,NYC
+2017-04-26T15:30:00-07:00,"Byte Academy: Python, FinTech, Blockchain,DataSci, Quant",Intro To Quant Algo + FinTech Week Open House,0s,https://www.meetup.com/Byte-Academy-Finance-and-Technology-community/events/238857161/,75,63,NYC
+2017-04-26T15:30:00-07:00,New York Kotlin Meetup,Kotlin Meetup - GraphQL & Async/Await,0s,https://www.meetup.com/New-York-Kotlin-Meetup/events/238924837/,75,71,NYC
+2017-04-26T15:30:00-07:00,New York Containers Meetup,Let's talk Containers!!,0s,https://www.meetup.com/New-York-Containers-Meetup/events/238622906/,0,22,NYC
+2017-04-26T15:30:00-07:00,Internet of Things (IoT) NY,IoT NY #43: Online Trust & Privacy by Design,2h0m0s,https://www.meetup.com/IoT-NY/events/239048967/,100,100,NYC
+2017-04-26T15:30:00-07:00,"Volumetric Society of NYC - Immersion, Biometrics, Sensors +",Hardware Hack Lab,3h0m0s,https://www.meetup.com/volumetric/events/237860451/,0,11,NYC
+2017-04-26T15:30:00-07:00,NYC Apache Airflow (incubating) Meetup,NYC Airflow Meetup #2,2h30m0s,https://www.meetup.com/NYC-Apache-Airflow-incubating-Meetup/events/238563007/,0,35,NYC
+2017-04-26T15:30:00-07:00,Flatiron School Presents,Developing Stories: The Women Shaping Media Tech,2h0m0s,https://www.meetup.com/Flatiron-School-Presents/events/238925702/,0,155,NYC
+2017-04-26T15:30:00-07:00,Code for Newark,Code for Newark Hacknight at Audible - Oh '17!,2h30m0s,https://www.meetup.com/Code-for-Newark/events/239022736/,20,10,NYC
+2017-04-26T15:45:00-07:00,Pluralsight Web Tech Classes @ The Summit Public Library,WebApps with AngularJS,0s,https://www.meetup.com/Summit-Public-Librarys-Web-Developer-Study-Group/events/239252300/,0,4,NYC
+2017-04-26T16:00:00-07:00,fat cat FAB LAB,Javascript 101,0s,https://www.meetup.com/fat-cat-fab-lab/events/239296417/,0,5,NYC
+2017-04-26T17:30:00-07:00,Dev Bootcamp NYC Events and Workshops,Dev Bootcamp April Virtual Info Session,1h0m0s,https://www.meetup.com/DBC-NYC/events/239166763/,0,10,NYC
+2017-04-27T08:00:00-07:00,"Orchestration, PaaS, CMP for Hybrid Cloud",[WEBINAR] Better Multi-Cloud Management and Orchestration for IT Ops and Devs,0s,https://www.meetup.com/The-DevOps-PaaS-Infusion/events/239350727/,0,7,NYC
+2017-04-27T12:00:00-07:00,Hacker Hours,Reboot Hacker Hours @ qLabs (Formerly Civic Hacker Hours),4h0m0s,https://www.meetup.com/hackerhours/events/239218417/,20,11,NYC
+2017-04-27T14:00:00-07:00,New York WooCommerce Meetup,Premium Plugin Series - Global Shipping With Easy Post,0s,https://www.meetup.com/New-York-WooCommerce-Meetup/events/238165746/,0,5,NYC
+2017-04-27T14:00:00-07:00,Flatiron School Presents,Web & iOS Development Final Projects Science Fair,2h0m0s,https://www.meetup.com/Flatiron-School-Presents/events/238122159/,0,77,NYC
+2017-04-27T14:30:00-07:00,New York Oracle Users Group Meetup,Registration is required. Bring Photo ID to meeting.  Fee is $10 at the door.,2h0m0s,https://www.meetup.com/New-York-Open-Group-Meetup/events/238518330/,0,22,NYC
+2017-04-27T15:00:00-07:00,New York SQL Server Meetup,Tour Azure Analysis Services with Josh Caplan,2h0m0s,https://www.meetup.com/New-York-SQL-Server-Meetup/events/239183449/,47,47,NYC
+2017-04-27T15:00:00-07:00,NYC Open Data,Data Science Solutions from Barclays Africa Group,0s,https://www.meetup.com/NYC-Open-Data/events/239338434/,80,60,NYC
+2017-04-27T15:00:00-07:00,Meteor NY,Meteor Hack Night,2h0m0s,https://www.meetup.com/Meteor-NY/events/230778152/,100,15,NYC
+2017-04-27T15:00:00-07:00,Angular NYC,#Advanced [Thursday] #coding #8Spots: work on new version of the Angular Codelab,0s,https://www.meetup.com/AngularNYC/events/239457335/,8,8,NYC
+2017-04-27T15:00:00-07:00,Dev Bootcamp NYC Events and Workshops,"Artificial Intelligence 101, Data and Machine Learning with x.ai",0s,https://www.meetup.com/DBC-NYC/events/239105839/,90,90,NYC
+2017-04-27T15:30:00-07:00,New York Web Performance Group,Meet for SPEED,0s,https://www.meetup.com/Web-Performance-NY/events/239359367/,0,5,NYC
+2017-04-27T15:30:00-07:00,ThoughtWorks Tech Talks NYC,Evolving Mobile Applications with Continuous Delivery,1h30m0s,https://www.meetup.com/ThoughtWorks-Tech-Talks-NYC/events/239326263/,0,74,NYC
+2017-04-27T15:30:00-07:00,Devops New York,"Containers, Kubernetes and Microservices [http://bit.ly/2nhCzXo]",2h0m0s,https://www.meetup.com/meetup-group-YzcjcmWF/events/239203022/,0,10,NYC
+2017-04-27T15:30:00-07:00,TechHub NYC,Meet The Minds - Tech Roundtable,3h0m0s,https://www.meetup.com/TechHub-NYC/events/238926202/,0,26,NYC
+2017-04-27T15:30:00-07:00,Tech in Motion: New York City,Tech Networking Night,2h30m0s,https://www.meetup.com/techinmotionnyc/events/238291191/,0,447,NYC
+2017-04-27T16:00:00-07:00,Data Science and Machine Learning • ProgramWithUs.com,Intro to Python - Free class,1h30m0s,https://www.meetup.com/New-York-Data-Science-Analytics/events/238980059/,0,46,NYC
+2017-04-27T16:00:00-07:00,Good Coders NYC (NYCGC),Native C#/Xamarin cross platform Android/iOS apps,0s,https://www.meetup.com/GoodCodersNYC/events/238622973/,20,8,NYC
+2017-04-27T16:00:00-07:00,fat cat FAB LAB,Machine Learning Night,0s,https://www.meetup.com/fat-cat-fab-lab/events/239094189/,0,9,NYC
+2017-04-27T17:00:00-07:00,NY InsuranceTech (Insuretech) Startup Group,Meet and Connect,0s,https://www.meetup.com/NY-InsuranceTech-Insuretech-Startup-Group/events/239247963/,0,10,NYC
+2017-04-28T05:00:00-07:00,New York Microsoft Exchange Server User Group (NYExUG),Annual Techstravaganza IT Pro Tech Conference,9h0m0s,https://www.meetup.com/nyexug/events/239004042/,0,18,NYC
+2017-04-28T05:00:00-07:00,Techstravaganza 2017,Registration for Techstravaganza 2017,9h0m0s,https://www.meetup.com/techstravaganza/events/238840106/,0,11,NYC
+2017-04-28T06:00:00-07:00,"Byte Academy: Python, FinTech, Blockchain,DataSci, Quant",Quantcon 2017 With Quantopian,56h0m0s,https://www.meetup.com/Byte-Academy-Finance-and-Technology-community/events/237894258/,20,10,NYC
+2017-04-28T11:30:00-07:00,CartoCampNYC,Workshop: Routing/Directions + D3 [Part 1],2h0m0s,https://www.meetup.com/CartoCamp/events/239365721/,0,18,NYC
+2017-04-28T15:00:00-07:00,Angular NYC,#Advanced [Friday] #coding #8Spots: work on new version of the Angular Codelab,0s,https://www.meetup.com/AngularNYC/events/239457345/,8,8,NYC
+2017-04-28T16:00:00-07:00,MakerBar,Node night: learn about Javascript,0s,https://www.meetup.com/MakerBar/events/238953439/,0,5,NYC
+2017-04-29T07:30:00-07:00,CocoaPods NYC,CocoaPods Peer Lab,2h0m0s,https://www.meetup.com/CocoaPods-NYC/events/236740739/,22,17,NYC
+2017-04-29T07:30:00-07:00,Code Crew - Learn to Code!,Intro to JavaScript Programming | Intensive Workshop,6h0m0s,https://www.meetup.com/codecrewny/events/238230376/,0,76,NYC
+2017-04-29T08:30:00-07:00,"Byte Academy: Python, FinTech, Blockchain,DataSci, Quant",Brunch w/ Google Ventures Partner Erik Nordlander + Brunchwork,0s,https://www.meetup.com/Byte-Academy-Finance-and-Technology-community/events/239401090/,20,7,NYC
+2017-04-29T10:00:00-07:00,Data Science and Machine Learning • ProgramWithUs.com,Weekend Python Programming 101,1h30m0s,https://www.meetup.com/New-York-Data-Science-Analytics/events/239299359/,0,3,NYC
+2017-04-29T11:00:00-07:00,Learn Python NYC,Saturday Python Study Group,3h0m0s,https://www.meetup.com/learn-python-nyc/events/237232375/,0,9,NYC
+2017-04-29T11:00:00-07:00,Think Academy - Learn To Code!,Hack Nights - End Of Month Collaborative Coding!,2h0m0s,https://www.meetup.com/ThinkAcademy/events/237597408/,20,13,NYC
+2017-04-29T16:00:00-07:00,Wine Women and Code,Space Apps Challenges Hackathon,0s,https://www.meetup.com/Wine-Women-and-Code/events/239470318/,0,4,NYC
+2017-04-30T08:00:00-07:00,Hacker Hours,Sundays @ Gregory's Coffee,5h0m0s,https://www.meetup.com/hackerhours/events/239357513/,0,4,NYC
+2017-04-30T08:00:00-07:00,Washington Algorithmic Trading,"QuantCon Workshop: Introduction to Futures -PAID EVENT, RSVP LINK IN DESCRIPTION",7h0m0s,https://www.meetup.com/Washington-Algorithmic-Trading/events/239011629/,0,3,NYC
+2017-04-30T09:30:00-07:00,Meteor NY,Meteor Office Hours,3h0m0s,https://www.meetup.com/Meteor-NY/events/239459674/,20,4,NYC
+2017-04-30T11:00:00-07:00,Learn Python NYC,Sunday Office Hours,3h0m0s,https://www.meetup.com/learn-python-nyc/events/237232378/,0,6,NYC
+2017-04-30T11:00:00-07:00,Wikimedia NYC,Action=History: Sunday Hackathon,4h0m0s,https://www.meetup.com/WikimediaNYC/events/238807387/,0,11,NYC
+2017-04-30T15:00:00-07:00,Bangladeshi IT Professionals in New York,Meet & Greet,3h0m0s,https://www.meetup.com/Bangladeshi-IT-Professionals-in-New-York/events/237401026/,0,19,NYC
+2017-04-30T16:00:00-07:00,The Global Institute for IT Management,2017 Global IT Trends Research. IT is reshaping global markets& reshaping itself,0s,https://www.meetup.com/The-Global-Institute-for-IT-Management/events/238461530/,0,7,NYC
+2017-05-01T14:00:00-07:00,Google Developer Group (GDG) NYC,"[GDG NYC] May - Serverless Computing, Cloud Functions, Cloud Endpoints & gRPC",3h30m0s,https://www.meetup.com/gdgnyc/events/234963739/,4,239,NYC
+2017-05-01T16:00:00-07:00,Columbia Digital Storytelling Lab,Sherlock Holmes & the Internet of Things - a kit for augmenting creativity,3h0m0s,https://www.meetup.com/columbia-dsl/events/239253809/,30,30,NYC
+2017-05-02T14:45:00-07:00,Data Driven NYC (a FirstMark Event),Data Driven NYC #55 (A FirstMark Event),3h15m0s,https://www.meetup.com/DataDrivenNYC/events/239093017/,575,575,NYC
+2017-05-02T15:00:00-07:00,New York City Enterprise Collaboration Meetup,How to Approach Office 365 Governance,1h45m0s,https://www.meetup.com/New-York-Enterprise-Collaboration-Meetup/events/236701924/,0,29,NYC
+2017-05-02T15:00:00-07:00,fat cat FAB LAB,Arduino Tuesdays,0s,https://www.meetup.com/fat-cat-fab-lab/events/239306766/,0,5,NYC
+2017-05-02T15:00:00-07:00,NYLUG - New York Linux Users Group,NYLUG Open hacker hours,3h0m0s,https://www.meetup.com/nylug-meetings/events/239310513/,0,6,NYC
+2017-05-02T15:30:00-07:00,New York Kubernetes Meetup,Microservice Development Workflows & Adoption Case Study,2h30m0s,https://www.meetup.com/New-York-Kubernetes-Meetup/events/238979895/,0,112,NYC
+2017-05-02T15:30:00-07:00,Black Engineers Network,Black Engineers Network May Meetup,2h0m0s,https://www.meetup.com/Black-Engineers-Network/events/238964239/,50,46,NYC
+2017-05-02T15:30:00-07:00,"SQL NYC, The NoSQL & NewSQL Database Meetup",Running Cassandra in Production: What to Expect in the First 6 Months,0s,https://www.meetup.com/mysqlnyc/events/239219425/,0,132,NYC
+2017-05-02T15:30:00-07:00,Brooklyn Kotlin,Brooklyn Kotlin Meetup - with Jordan Beck and Russell Stephens,2h30m0s,https://www.meetup.com/Brooklyn-Kotlin/events/238282662/,0,19,NYC
+2017-05-02T16:00:00-07:00,Brooklyn Coded,Speed Pairing,3h0m0s,https://www.meetup.com/Brooklyn-Coded/events/238987138/,30,6,NYC
+2017-05-02T16:00:00-07:00,fat cat FAB LAB,Weekly Open House,2h0m0s,https://www.meetup.com/fat-cat-fab-lab/events/239443131/,25,4,NYC
+2017-05-02T16:00:00-07:00,Learn Python NYC,Tuesday Office Hours,3h0m0s,https://www.meetup.com/learn-python-nyc/events/239314225/,40,8,NYC
+2017-05-03T15:00:00-07:00,AWS New York | Official Meetup,No App Left Behind: Make Storage on AWS work for your applications,0s,https://www.meetup.com/AWS-NYC/events/239392699/,75,55,NYC
+2017-05-03T15:30:00-07:00,"Volumetric Society of NYC - Immersion, Biometrics, Sensors +",Hardware Hack Lab,3h0m0s,https://www.meetup.com/volumetric/events/239019037/,0,4,NYC
+2017-05-03T15:30:00-07:00,Flatiron School Presents,On-Campus Beginner Study Session,2h0m0s,https://www.meetup.com/Flatiron-School-Presents/events/237429531/,0,41,NYC
+2017-05-03T15:45:00-07:00,"Byte Academy: Python, FinTech, Blockchain,DataSci, Quant",Coder Career Series: Algorithms & Interview Prep,0s,https://www.meetup.com/Byte-Academy-Finance-and-Technology-community/events/239433610/,20,3,NYC
+2017-05-03T16:00:00-07:00,QueensJS,"Please QueensJS, May We Have Another Meetup?",0s,https://www.meetup.com/QueensJS/events/238601134/,52,27,NYC
+2017-05-04T10:00:00-07:00,Arista Networks NYC Area Group,Automation and Visibility in Containerized Environments,1h0m0s,https://www.meetup.com/Arista-Networks-NYC-Area-Group/events/239279562/,0,12,NYC
+2017-05-04T12:00:00-07:00,Hacker Hours,Reboot Hacker Hours @ qLabs (Formerly Civic Hacker Hours),4h0m0s,https://www.meetup.com/hackerhours/events/239218424/,20,5,NYC
+2017-05-04T14:30:00-07:00,New York HashiCorp User Group,May Meetup: Nomad,2h30m0s,https://www.meetup.com/New-York-HashiCorp-User-Group/events/239015847/,0,33,NYC
+2017-05-04T15:00:00-07:00,Tech 2025,NEW DATE: Augmented Reality and 3D Technologies with Hayo,2h0m0s,https://www.meetup.com/tech2025/events/238380547/,20,23,NYC
+2017-05-04T15:00:00-07:00,AWS New York | Official Meetup,How Flatiron Health uses AWS to Iterate and Scale Their Healthcare Data Pipeline,2h0m0s,https://www.meetup.com/AWS-NYC/events/239367206/,150,123,NYC
+2017-05-04T15:30:00-07:00,BitcoinNYC,Paper Review; Topic TBD,0s,https://www.meetup.com/BitcoinNYC/events/238033692/,0,25,NYC
+2017-05-04T15:30:00-07:00,NYC PyLadies,Dive into NLP with TextBlob,2h30m0s,https://www.meetup.com/NYC-PyLadies/events/238746886/,80,80,NYC
+2017-05-04T15:30:00-07:00,Build with Code - New York City,"JavaScript the Hard Parts, Part 1: Callbacks, Higher Order Functions",2h0m0s,https://www.meetup.com/Build-with-Code-New-York/events/239285331/,0,10,NYC
+2017-05-04T16:00:00-07:00,fat cat FAB LAB,Machine Learning Night,0s,https://www.meetup.com/fat-cat-fab-lab/events/239315734/,0,5,NYC
+2017-05-05T14:30:00-07:00,"Byte Academy: Python, FinTech, Blockchain,DataSci, Quant",FinClusion: FinTech Inclusion Hackathon,47h30m0s,https://www.meetup.com/Byte-Academy-Finance-and-Technology-community/events/239275891/,0,12,NYC
+2017-05-05T16:00:00-07:00,South Jersey Tech Elite,AC Hackerthon Followup Meeting,2h0m0s,https://www.meetup.com/South-Jersey-Tech-Elite/events/232224471/,0,6,NYC
+2017-05-06T06:30:00-07:00,Black Technology Professionals - BTP NY,Techies needed to speak to Eagle Academy students 5/6/2017,3h0m0s,https://www.meetup.com/Black-Technology-Professionals-BTP-NY/events/239273896/,7,4,NYC
+2017-05-06T07:30:00-07:00,CocoaPods NYC,CocoaPods Peer Lab,2h0m0s,https://www.meetup.com/CocoaPods-NYC/events/236740737/,22,8,NYC
+2017-05-06T08:30:00-07:00,Coders for Good,Teach Kids to Code - Manhattan Workshop,4h30m0s,https://www.meetup.com/Developers-for-Good/events/239466024/,40,10,NYC
+2017-05-08T01:00:00-07:00,Python for Quant Finance,For Python Quants Bootcamp New York (paid event),80h0m0s,https://www.meetup.com/Python-for-Quant-Finance-London/events/239151759/,0,4,NYC
+2017-05-08T06:30:00-07:00,Chef-NYC (for users of Chef),Continuous Compliance Workshop,5h0m0s,https://www.meetup.com/Chef-NYC/events/239387432/,0,10,NYC
+2017-05-08T15:00:00-07:00,Black Technology Professionals - BTP NY,JPMorganChase Technology Diversity Career Fair Event,2h0m0s,https://www.meetup.com/Black-Technology-Professionals-BTP-NY/events/239332576/,0,15,NYC
+2017-05-08T16:15:00-07:00,Data Science and Machine Learning • ProgramWithUs.com,Build a web application yourself (4 sessions),1h30m0s,https://www.meetup.com/New-York-Data-Science-Analytics/events/239329035/,0,4,NYC
+2017-05-09T15:00:00-07:00,New York Microsoft Exchange Server User Group (NYExUG),Exchange Server Quiz Show Challenge Night - Everyone Invited & Can Win!,3h0m0s,https://www.meetup.com/nyexug/events/239003915/,0,16,NYC
+2017-05-09T15:00:00-07:00,Google Developer Group (GDG) NYC,[GDG NYC] TechDuels: AngularJS vs. ReactJS,3h0m0s,https://www.meetup.com/gdgnyc/events/237692840/,0,303,NYC
+2017-05-09T15:30:00-07:00,"Byte Academy: Python, FinTech, Blockchain,DataSci, Quant",Career Fair (Invite Only),0s,https://www.meetup.com/Byte-Academy-Finance-and-Technology-community/events/239161720/,5,4,NYC
+2017-05-09T15:30:00-07:00,NYC CockroachDB User Group,NYC CockroachDB User Group - 1.0 Release: What's in store?,0s,https://www.meetup.com/NYC-CockroachDB-User-Group/events/239118648/,0,14,NYC
+2017-05-09T15:30:00-07:00,"SQL NYC, The NoSQL & NewSQL Database Meetup",Architecting for Active/Active Operations to Maximize Uptime & Capacity,0s,https://www.meetup.com/mysqlnyc/events/239043303/,0,120,NYC
+2017-05-09T15:30:00-07:00,AWS Training Boot Camp,AWS meetup,2h0m0s,https://www.meetup.com/AWS-Training-Boot-Camp/events/239328751/,20,19,NYC
+2017-05-09T15:30:00-07:00,Flatiron School Presents,Women in Tech Panel Discussion,2h0m0s,https://www.meetup.com/Flatiron-School-Presents/events/238834678/,0,34,NYC
+2017-05-10T12:30:00-07:00,Atlassian Enterprise Day Meetup,Join Atlassian & Elasity at AWS' New York City offices,2h30m0s,https://www.meetup.com/Atlassian-Enterprise-Day-Meetup/events/239297196/,0,3,NYC
+2017-05-10T15:00:00-07:00,Tech 2025,Artificial Intelligence and Life in 2030: a One Hundred Year Study (workshop),2h30m0s,https://www.meetup.com/tech2025/events/239317627/,40,30,NYC
+2017-05-10T15:00:00-07:00,NYRHUG - New York Red Hat Users Group,Monthly Meetup - Performance Tuning Primer,2h0m0s,https://www.meetup.com/NYRHUG-New-York-Red-Hat-Users-Group/events/237373521/,40,40,NYC
+2017-05-10T15:15:00-07:00,Reactive New York,An Overview of Serverless Architectures and a Deep Dive into AWS Lambda,0s,https://www.meetup.com/Reactive-New-York/events/239287177/,0,85,NYC
+2017-05-10T15:30:00-07:00,Write/Speak/Code NYC,A/B Testing Sexism - Interviewing as a female executive in tech,0s,https://www.meetup.com/Write-Speak-Code-NYC/events/238881520/,200,144,NYC
+2017-05-10T15:30:00-07:00,"Byte Academy: Python, FinTech, Blockchain,DataSci, Quant","Startup Talk: RetailTech, FashionTech + ECommerce W/Founder Andrea Wasserman",0s,https://www.meetup.com/Byte-Academy-Finance-and-Technology-community/events/239050024/,20,11,NYC
+2017-05-10T15:30:00-07:00,Historical Data & Maps at NYPL,Brooklyn Heights Walking Tour,0s,https://www.meetup.com/historical-data-and-maps-at-nypl/events/239455247/,25,21,NYC
+2017-05-10T15:45:00-07:00,Pluralsight Web Tech Classes @ The Summit Public Library,Mobile App Development Training,0s,https://www.meetup.com/Summit-Public-Librarys-Web-Developer-Study-Group/events/239471254/,0,5,NYC
+2017-05-10T16:00:00-07:00,fat cat FAB LAB,Javascript 101,0s,https://www.meetup.com/fat-cat-fab-lab/events/239316425/,0,3,NYC
+2017-05-10T16:00:00-07:00,NYC Ruby Roundtable,TBD -- Mark your calendar!,2h0m0s,https://www.meetup.com/nycruby/events/237022610/,75,10,NYC
+2017-05-11T14:30:00-07:00,The Things Network NYC Community Meetup,Community Meeting #14,2h0m0s,https://www.meetup.com/The-Things-Network-NYC-Community-Meetup/events/238915312/,0,5,NYC
+2017-05-11T15:30:00-07:00,ThoughtWorks Tech Talks NYC,When Microservices Met Event Sourcing,0s,https://www.meetup.com/ThoughtWorks-Tech-Talks-NYC/events/239465465/,0,69,NYC
+2017-05-11T16:00:00-07:00,Wine Women and Code,Classy Coder Meet and Greet,0s,https://www.meetup.com/Wine-Women-and-Code/events/239471940/,20,3,NYC
+2017-05-13T07:30:00-07:00,CocoaPods NYC,CocoaPods Peer Lab,2h0m0s,https://www.meetup.com/CocoaPods-NYC/events/236740734/,22,4,NYC
+2017-05-13T10:00:00-07:00,TechHub NYC,"Thinking about getting an MBA, but just not sure? – New York, May 13th",4h0m0s,https://www.meetup.com/TechHub-NYC/events/238957072/,0,12,NYC
+2017-05-13T10:00:00-07:00,Opportunities for NYC Technology & Finance Professionals,"Thinking about getting an MBA, but just not sure? – New York, May 13th",4h0m0s,https://www.meetup.com/ZorkasFinTechs/events/239079061/,0,4,NYC
+2017-05-13T12:00:00-07:00,Data Science and Machine Learning • ProgramWithUs.com,Weekend Web Scraping and Mining,1h30m0s,https://www.meetup.com/New-York-Data-Science-Analytics/events/239326022/,0,6,NYC
+2017-05-15T05:00:00-07:00,"Next Gen Native Hadoop Big Data Apex Users Group, New York",Data Summit 2017 Day 1,9h0m0s,https://www.meetup.com/Apex-Users-Group-New-York/events/237372800/,0,5,NYC
+2017-05-15T05:00:00-07:00,"Big Data (native Hadoop) Ingest & Transform, New York",Data Summit 2017 Day 1,9h0m0s,https://www.meetup.com/Big-Data-Ingest-New-York/events/237372431/,0,13,NYC
+2017-05-15T05:00:00-07:00,"Next Gen Native Hadoop Big Data Apex Users Group, Edison",Data Summit 2017 Day 1,9h0m0s,https://www.meetup.com/Apex-Users-Group-Edison/events/237372667/,0,3,NYC
+2017-05-15T05:00:00-07:00,"Big Data (Next Gen Hadoop) Ingest & Transform, Edison",Data Summit 2017 Day 1,9h0m0s,https://www.meetup.com/Big-Data-Ingest-Edison/events/237372564/,0,7,NYC
+2017-05-15T15:30:00-07:00,HUI Central - NY,Microsoft Cognitive Services: Enable the Human Side of Your Application,0s,https://www.meetup.com/HUI-Central-NY/events/239244351/,60,7,NYC
+2017-05-16T05:00:00-07:00,"Next Gen Native Hadoop Big Data Apex Users Group, New York",Data Summit 2017 - Day 2,9h0m0s,https://www.meetup.com/Apex-Users-Group-New-York/events/237372365/,0,3,NYC
+2017-05-16T05:00:00-07:00,"Big Data (native Hadoop) Ingest & Transform, New York",Data Summit 2017 - Day 2,9h0m0s,https://www.meetup.com/Big-Data-Ingest-New-York/events/237372312/,0,8,NYC
+2017-05-16T14:30:00-07:00,Data Science and Machine Learning • ProgramWithUs.com,Building a Chatbot with Python and Twillio,1h30m0s,https://www.meetup.com/New-York-Data-Science-Analytics/events/238926135/,0,20,NYC
+2017-05-16T14:30:00-07:00,Data Science and Machine Learning • ProgramWithUs.com,Tech job interview: Learn problem solving with algorithms. Big-O Notation!,1h30m0s,https://www.meetup.com/New-York-Data-Science-Analytics/events/239298106/,30,5,NYC
+2017-05-16T15:30:00-07:00,TechHub NYC,NY's Biggest Business & Tech Entrepreneur Professional Networking Affair,0s,https://www.meetup.com/TechHub-NYC/events/238821666/,0,31,NYC
+2017-05-16T15:30:00-07:00,Meteor NY,Meteor/JS in Finance (DevShop NYC),2h30m0s,https://www.meetup.com/Meteor-NY/events/238809004/,0,42,NYC
+2017-05-17T05:00:00-07:00,"Big Data (native Hadoop) Ingest & Transform, New York",Data Summit 2017 - Day 3,9h0m0s,https://www.meetup.com/Big-Data-Ingest-New-York/events/237372947/,0,6,NYC
+2017-05-17T05:00:00-07:00,"Next Gen Native Hadoop Big Data Apex Users Group, New York",Data Summit 2017 - Day 3,9h0m0s,https://www.meetup.com/Apex-Users-Group-New-York/events/237372680/,0,5,NYC
+2017-05-17T15:00:00-07:00,NYC OCaml Meetup,Caveat Configurator,2h0m0s,https://www.meetup.com/NYC-OCaml/events/239361915/,50,17,NYC
+2017-05-17T15:00:00-07:00,Dev Bootcamp NYC Events and Workshops,"Founder of Code School, Gregg Pollack | Putting People 1st & Team Craftsmanship",0s,https://www.meetup.com/DBC-NYC/events/239188325/,0,18,NYC
+2017-05-17T15:00:00-07:00,NYC Networkers,How far can you go? Penetration Test Lab,2h0m0s,https://www.meetup.com/nycnetworkers/events/239165265/,0,31,NYC
+2017-05-17T15:30:00-07:00,Internet of Fashion (IoF) Meetup,Internet of Fashion Hands on Designing Fashion Tech,2h30m0s,https://www.meetup.com/Internet-of-Fashion-Meetup/events/238615634/,100,59,NYC
+2017-05-18T14:30:00-07:00,NY SPIN (NY Software & Systems Process Improvement Network),Part 2: Using Strong Processes to Counter Emerging Cyber Threats,2h45m0s,https://www.meetup.com/nyspin/events/238450911/,0,4,NYC
+2017-05-18T15:00:00-07:00,NYC .NET Developers,Presentations and Discussion on topics related to .NET,2h30m0s,https://www.meetup.com/NYC-NET-Developers/events/238640692/,0,20,NYC
+2017-05-18T15:00:00-07:00,Unigroup of New York,18-MAY-2017: Linux HPC Clusters (Speaker: Prentice Bisbal),3h0m0s,https://www.meetup.com/Unigroup/events/238366772/,0,4,NYC
+2017-05-20T07:30:00-07:00,CocoaPods NYC,CocoaPods Peer Lab,2h0m0s,https://www.meetup.com/CocoaPods-NYC/events/236740732/,22,3,NYC
+2017-05-21T09:30:00-07:00,Meteor NY,Meteor Office Hours,3h0m0s,https://www.meetup.com/Meteor-NY/events/239381585/,20,4,NYC
+2017-05-21T11:00:00-07:00,Learn Python NYC,Sunday Office Hours,3h0m0s,https://www.meetup.com/learn-python-nyc/events/237232388/,0,4,NYC
+2017-05-22T05:00:00-07:00,Couchbase New York,Couchbase Connect New York 2017,33h0m0s,https://www.meetup.com/Couchbase-New-York/events/238798630/,0,11,NYC
+2017-05-22T06:00:00-07:00,"SQL NYC, The NoSQL & NewSQL Database Meetup",Couchbase Connect NYC - free tickets only for NYC NoSQL/NewSQL Meetup members!,31h45m0s,https://www.meetup.com/mysqlnyc/events/239019267/,0,116,NYC
+2017-05-22T16:30:00-07:00,HackerNest NYC Tech Socials,HackerNest NYC May Tech Social,2h30m0s,https://www.meetup.com/HackerNestNYC/events/235960874/,0,94,NYC
+2017-05-23T15:30:00-07:00,"SQL NYC, The NoSQL & NewSQL Database Meetup",Remedying the Challenges of Migrating Oracle/Postgres/SQL to MongoDB/NoSQL,0s,https://www.meetup.com/mysqlnyc/events/239194372/,0,108,NYC
+2017-05-23T15:30:00-07:00,"Byte Academy: Python, FinTech, Blockchain,DataSci, Quant",SexTech Revolution: Guests CEO/CTO Dame Products + NY Times Best Selling Author,2h0m0s,https://www.meetup.com/Byte-Academy-Finance-and-Technology-community/events/239186989/,20,3,NYC
+2017-05-23T16:00:00-07:00,New York MongoDB User Group,Using MongoDB at Radar,0s,https://www.meetup.com/New-York-MongoDB-User-Group/events/238931377/,0,12,NYC
+2017-05-23T16:00:00-07:00,BitDevs NYC,Socratic Meetup 68,2h0m0s,https://www.meetup.com/BitDevsNYC/events/239337795/,100,44,NYC
+2017-05-25T05:30:00-07:00,OWASP New Jersey Central Chapter,SECON 2017 -  Social Engineering Conference 2017 - New Jersey City University,8h30m0s,https://www.meetup.com/OWASP-New-Jersey-Central-Chapter/events/239136428/,50,6,NYC
+2017-05-27T11:00:00-07:00,Learn Python NYC,Saturday Python Study Group,3h0m0s,https://www.meetup.com/learn-python-nyc/events/237232392/,0,3,NYC
+2017-05-27T11:00:00-07:00,Think Academy - Learn To Code!,Hack Nights - End Of Month Collaborative Coding!,2h0m0s,https://www.meetup.com/ThinkAcademy/events/239164302/,20,3,NYC
+2017-05-30T15:00:00-07:00,Angular NYC,*** AngularNYC 5 Year Anniversary Event ***,2h30m0s,https://www.meetup.com/AngularNYC/events/238958299/,4,4,NYC
+2017-05-31T05:00:00-07:00,Brooklyn Futurist Meetup,Jobs For Robots: Between Robocalypse and Robotopia,1h30m0s,https://www.meetup.com/BLKNY30/events/239368382/,100,24,NYC
+2017-05-31T15:30:00-07:00,Crowded Tech Jobs Meetup!,Crowded Tech Jobs Meetup!,2h0m0s,https://www.meetup.com/Crowded-Tech-Jobs-Meetup/events/237539167/,0,39,NYC
+2017-05-31T15:45:00-07:00,Pluralsight Web Tech Classes @ The Summit Public Library,WebApps with AngularJS,0s,https://www.meetup.com/Summit-Public-Librarys-Web-Developer-Study-Group/events/236360824/,0,3,NYC
+2017-06-01T15:00:00-07:00,Business & Technology of Greater New York,Fireside Chat w/ Kai Yen - CTO and Co-Founder of Purple Squirrel,2h0m0s,https://www.meetup.com/btgnewyork/events/238853701/,40,5,NYC
+2017-06-03T07:30:00-07:00,CocoaPods NYC,CocoaPods Peer Lab,2h0m0s,https://www.meetup.com/CocoaPods-NYC/events/236740727/,22,3,NYC
+2017-06-05T07:00:00-07:00,The New York Cloud and Grid Computing Meetup Group,Cloud Foundry Training,104h0m0s,https://www.meetup.com/nycloud/events/239327691/,0,3,NYC
+2017-06-05T07:00:00-07:00,GE Predix NYC (Industrial Internet),Cloud Foundry Training,104h0m0s,https://www.meetup.com/GE-Predix-NYC-Industrial-Internet/events/239325772/,0,7,NYC
+2017-06-05T07:00:00-07:00,New York Cloud Computing Meetup,Cloud Foundry Training,104h0m0s,https://www.meetup.com/New-York-Cloud-Computing-Meetup/events/239327637/,0,10,NYC
+2017-06-05T14:00:00-07:00,Google Developer Group (GDG) NYC,[GDG NYC] I/O Extended 2017 New York (in-planning),3h30m0s,https://www.meetup.com/gdgnyc/events/234963756/,4,5,NYC
+2017-06-06T15:00:00-07:00,New York City Enterprise Collaboration Meetup,Collaborate Everywhere!  Mobile Collaboration Tools,1h45m0s,https://www.meetup.com/New-York-Enterprise-Collaboration-Meetup/events/236703990/,0,7,NYC
+2017-06-14T14:30:00-07:00,"Breaking the Glass, NYC","Breaking the Glass Part 2: ""Women in Blockchain""",3h0m0s,https://www.meetup.com/Breaking-the-Glass-NYC/events/238416630/,25,9,NYC
+2017-06-15T14:30:00-07:00,The Things Network NYC Community Meetup,Community Meeting #15,2h0m0s,https://www.meetup.com/The-Things-Network-NYC-Community-Meetup/events/238915337/,0,5,NYC
+2017-06-15T15:00:00-07:00,NYC .NET Developers,Presentations and Discussion on topics related to .NET,2h30m0s,https://www.meetup.com/NYC-NET-Developers/events/238710095/,0,8,NYC
+2017-06-15T15:15:00-07:00,Unigroup of New York,15-JUN-2017: Optical Fiber Networking (Speaker: OCC),2h45m0s,https://www.meetup.com/Unigroup/events/238366803/,0,4,NYC
+2017-06-15T16:00:00-07:00,Hack && Tell,Round 43,2h30m0s,https://www.meetup.com/hack-and-tell/events/238753155/,100,3,NYC
+2017-06-18T11:00:00-07:00,Learn Python NYC,Sunday Office Hours,3h0m0s,https://www.meetup.com/learn-python-nyc/events/238255573/,0,3,NYC
+2017-06-19T15:30:00-07:00,Internet of Fashion (IoF) Meetup,Internet of Fashion Hands on Designing Fashion Tech,2h30m0s,https://www.meetup.com/Internet-of-Fashion-Meetup/events/238921907/,100,9,NYC
+2017-06-19T17:00:00-07:00,HackerNest NYC Tech Socials,HackerNest NYC June Tech Social,0s,https://www.meetup.com/HackerNestNYC/events/235960921/,0,16,NYC
+2017-06-20T05:00:00-07:00,Cloud Native New York,Spring Days 2017,33h0m0s,https://www.meetup.com/Cloud-Native-New-York/events/238475356/,0,11,NYC
+2017-06-20T05:00:00-07:00,New York City Spring User Group,Spring Days 2017,33h0m0s,https://www.meetup.com/NYC-SUG/events/238474374/,0,14,NYC
+2017-06-20T15:00:00-07:00,NJ Tech Meetup,"NJ Tech Meetup 85 w Brian Hirsch, Tribeca Venture Partners",0s,https://www.meetup.com/njtech/events/236827364/,100,4,NYC
+2017-06-22T15:30:00-07:00,Tech in Motion: New York City,Smart Cities - Panel Discussion,2h30m0s,https://www.meetup.com/techinmotionnyc/events/238648488/,2,25,NYC
+2017-06-22T16:00:00-07:00,Startup New York,Startup New York Pitch Battle,0s,https://www.meetup.com/startupny/events/238175045/,0,37,NYC
+2017-06-24T08:00:00-07:00,R-Ladies New York,R-ladies Book Club :  Weapons of Math Destruction,1h30m0s,https://www.meetup.com/rladies-newyork/events/239047532/,0,13,NYC
+2017-06-27T06:00:00-07:00,"Big Data (native Hadoop) Ingest & Transform, New York",Sentiment Analysis Symposium - Day 1,8h30m0s,https://www.meetup.com/Big-Data-Ingest-New-York/events/237373243/,0,9,NYC
+2017-06-28T06:00:00-07:00,"Big Data (native Hadoop) Ingest & Transform, New York",Sentiment Analysis Symposium Day 2,8h30m0s,https://www.meetup.com/Big-Data-Ingest-New-York/events/237373389/,0,6,NYC
+2017-06-28T15:30:00-07:00,Crowded Tech Jobs Meetup!,Crowded Tech Jobs Meetup!,2h0m0s,https://www.meetup.com/Crowded-Tech-Jobs-Meetup/events/237773177/,0,11,NYC
+2017-06-29T15:30:00-07:00,Advanced Spark and TensorFlow Meetup (New York),"Deploy Spark ML, Scikit-Learn, and TensorFlow Models from Notebook to Production",2h30m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup-New-York/events/235727106/,0,211,NYC
+2017-06-29T18:30:00-07:00,Advanced Spark and TensorFlow Meetup,"[NYC] Deploy Spark ML, Scikit-Learn, TensorFlow Models:  Notebook to Production!",2h30m0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/239385617/,0,31,NYC
+2017-06-29T12:00:00-07:00,New Haircut Meetup,Immersive Design Sprint Workshop: NYC,20h0m0s,https://www.meetup.com/newhaircut/events/238460581/,24,3,NYC
+2017-07-10T14:00:00-07:00,Google Developer Group (GDG) NYC,[GDG NYC] July Meetup,3h30m0s,https://www.meetup.com/gdgnyc/events/234963760/,4,5,NYC
+2017-07-12T07:30:00-07:00,Open Web Application Security Project,DEMO DAY - TECHNOLOGY TRANSFER,4h30m0s,https://www.meetup.com/owaspnycnj/events/236400133/,0,24,NYC
+2017-07-19T15:30:00-07:00,Internet of Fashion (IoF) Meetup,Internet of Fashion Hands on Designing Fashion Tech,2h30m0s,https://www.meetup.com/Internet-of-Fashion-Meetup/events/239154769/,100,3,NYC
+2017-07-24T17:00:00-07:00,HackerNest NYC Tech Socials,HackerNest NYC July Tech Social,0s,https://www.meetup.com/HackerNestNYC/events/235960958/,0,9,NYC
+2017-07-26T15:30:00-07:00,Crowded Tech Jobs Meetup!,Crowded Tech Jobs Meetup!,2h0m0s,https://www.meetup.com/Crowded-Tech-Jobs-Meetup/events/239070916/,0,6,NYC
+2017-07-26T15:45:00-07:00,Pluralsight Web Tech Classes @ The Summit Public Library,WebApps with AngularJS,0s,https://www.meetup.com/Summit-Public-Librarys-Web-Developer-Study-Group/events/239223563/,0,3,NYC
+2017-08-07T14:00:00-07:00,Google Developer Group (GDG) NYC,[GDG NYC] Aug Meetup,3h30m0s,https://www.meetup.com/gdgnyc/events/234963772/,4,5,NYC
+2017-09-11T14:00:00-07:00,Google Developer Group (GDG) NYC,[GDG NYC] Sep Meetup,3h30m0s,https://www.meetup.com/gdgnyc/events/234963785/,4,5,NYC
+2017-10-02T14:00:00-07:00,Google Developer Group (GDG) NYC,[GDG NYC] Oct Meetup,3h30m0s,https://www.meetup.com/gdgnyc/events/234963791/,4,5,NYC
+2017-11-06T14:00:00-08:00,Google Developer Group (GDG) NYC,[GDG NYC] Nov Meetup,3h30m0s,https://www.meetup.com/gdgnyc/events/234963796/,4,5,NYC
+2017-12-04T14:00:00-08:00,Google Developer Group (GDG) NYC,[GDG NYC] Dec Meetup,3h30m0s,https://www.meetup.com/gdgnyc/events/234963800/,4,5,NYC
+2018-12-31T15:30:00-08:00,Advanced Spark and TensorFlow Meetup (New York),Please Join the Global Advanced Spark + TensorFlow Meetup for All Future Events!,0s,https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup-New-York/events/234949633/,0,16,NYC
+2017-04-25T16:30:00-07:00,Innovation Pavilion: Ecosystem for Entrepreneurs,Innovate Parker - Happy Hour Series,1h30m0s,https://www.meetup.com/InnovationPavilion/events/239183278/,0,18,DEN
+2017-04-25T16:30:00-07:00,Solid State Depot - The Boulder Hackerspace,Admin Meeting (Open to all members),0s,https://www.meetup.com/SolidStateDepot/events/239312791/,0,6,DEN
+2017-04-25T16:30:00-07:00,EdTech Meetup CO,Maker Movement Meets Education,0s,https://www.meetup.com/EducelerateCO/events/239197980/,0,38,DEN
+2017-04-25T17:30:00-07:00,Rocky Mountain Angular,ng-Conf Highlights + coding deep dive,2h30m0s,https://www.meetup.com/RockyMountainAngular/events/238758809/,0,36,DEN
+2017-04-25T17:30:00-07:00,Colorado Drupal Meetups,The Denver Drupal Meetup,0s,https://www.meetup.com/drupal-colorado/events/238998701/,0,9,DEN
+2017-04-25T18:30:00-07:00,Solid State Depot - The Boulder Hackerspace,Open House - Every Tuesday,0s,https://www.meetup.com/SolidStateDepot/events/239333635/,0,5,DEN
+2017-04-26T16:00:00-07:00,"Alteryx Broomfield Networking Event, April 2017",Come to the Alteryx Broomfield Networking Event!,3h0m0s,https://www.meetup.com/Alteryx-Broomfield-Networking-Event/events/239288736/,0,21,DEN
+2017-04-26T16:15:00-07:00,AWS Boulder-Denver,Controlling the clouds: Intro to AWS CloudFormation,3h15m0s,https://www.meetup.com/AWS-Boulder-Denver/events/239355056/,0,30,DEN
+2017-04-26T17:00:00-07:00,Boulder Ruby Group,Monthly Coding Night,3h0m0s,https://www.meetup.com/boulder_ruby_group/events/238290186/,0,16,DEN
+2017-04-26T17:00:00-07:00,Denver Microservices,Operational Excellence with Microservices,0s,https://www.meetup.com/DenverMicroservices/events/238229558/,100,64,DEN
+2017-04-26T17:00:00-07:00,Free Code Camp - Denver Study Group,"freeCodeCamp Study Group - Learn Web Development, Self Paced, Beginners Welcome!",2h0m0s,https://www.meetup.com/Free-Code-Camp-Denver-Study-Group/events/238681860/,0,38,DEN
+2017-04-26T17:30:00-07:00,TensorFlow Denver,Deep Dive into TensorFlow #4,2h0m0s,https://www.meetup.com/TensorFlow-Denver/events/238464734/,1,1,DEN
+2017-04-27T15:00:00-07:00,Innovation Pavilion: Ecosystem for Entrepreneurs,Make Your Digital Marketing a Growth Engine! A Proven Process to Grow Sales,0s,https://www.meetup.com/InnovationPavilion/events/238566568/,0,38,DEN
+2017-04-27T16:30:00-07:00,DevFaction Boulder,Using Google Drive as a Database | Getting Started With React,0s,https://www.meetup.com/DevFaction-Boulder/events/238580665/,0,19,DEN
+2017-04-27T17:00:00-07:00,Internet of Things Colorado/Denver/Boulder Meetup,IoT Lightning Talks,3h0m0s,https://www.meetup.com/Internet-of-Things-Denver-Meetup/events/239020172/,0,43,DEN
+2017-04-27T17:00:00-07:00,Big Data & Analytics Learning Series Colorado,Big Data Cloud - Internet of Things (IoT) - Streaming Analytics,3h0m0s,https://www.meetup.com/Big-Data-Analytics-Learning-Series-Colorado/events/237859074/,0,48,DEN
+2017-05-01T16:30:00-07:00,Colorado Technology Sales Roundtable,What is keeping you from hitting this years target? Quarterly round table talk,0s,https://www.meetup.com/Colorado-Technology-Sales-Meetup/events/237412123/,0,16,DEN
+2017-05-01T17:30:00-07:00,The Gizmo Dojo (Broomfield Makerspace),Board Meeting,0s,https://www.meetup.com/Broomfield-Makerspace-Meetup-Group/events/238666938/,0,5,DEN
+2017-05-02T15:30:00-07:00,Denver Selenium Automation,"Talk about the 2017 Selenium Conference in Austin, Texas",0s,https://www.meetup.com/Denver-Selenium-Automation/events/238347321/,0,15,DEN
+2017-05-02T16:00:00-07:00,Denver NPUG,Network Programmability Group Discussion,0s,https://www.meetup.com/Denver-NPUG/events/239120231/,0,7,DEN
+2017-05-02T16:30:00-07:00,Denver Open Source Users Group,"Michael Carducci - Magician, Software Engineer, NFJS Speaker",0s,https://www.meetup.com/DOSUG1/events/237168586/,0,27,DEN
+2017-05-03T15:00:00-07:00,MileHigh Waymakers,DIgital Transformation and your Business,2h0m0s,https://www.meetup.com/MileHigh-Waymakers/events/239159364/,0,9,DEN
+2017-05-03T17:00:00-07:00,Boulder Geek Jam Session,May 3rd Geek Jam!,3h0m0s,https://www.meetup.com/bouldergeekjam/events/239465503/,0,11,DEN
+2017-05-03T17:00:00-07:00,Denver Software Architects,Join us for our monthly Denver Software Architecture meeting!,0s,https://www.meetup.com/Denver-IASA/events/238865278/,0,6,DEN
+2017-05-04T16:30:00-07:00,Colorado Cloud Foundry Meetup,Developer-Ready Infrastructure for Pivotal CF | CF Java Reactive Client,0s,https://www.meetup.com/Colorado-Cloud-Foundry-Meetup/events/239217280/,0,24,DEN
+2017-05-06T08:00:00-07:00,Software Freedom School in Denver,Installfest and hack time,4h0m0s,https://www.meetup.com/sofreeus/events/239023382/,0,5,DEN
+2017-05-09T16:30:00-07:00,Boulder Java Users Group,"Look ma, no JavaScript – how you can build a modern web app 100% in Java",2h30m0s,https://www.meetup.com/BoulderJavaUsersGroup/events/236144838/,0,40,DEN
+2017-05-09T17:00:00-07:00,Denver Puppet User Group,Hiera. It's about data: a beginners journey,2h0m0s,https://www.meetup.com/Denver-Puppet-User-Group/events/238650482/,0,18,DEN
+2017-05-09T17:00:00-07:00,GDG Denver,Android 101,0s,https://www.meetup.com/GDG-Denver/events/239286354/,0,3,DEN
+2017-05-09T17:30:00-07:00,Boulder Python,"Boulder Python, May 2017",0s,https://www.meetup.com/BoulderPython/events/239106610/,0,51,DEN
+2017-05-09T17:30:00-07:00,Cocoaheads Denver,Monthly Meeting,0s,https://www.meetup.com/CocoaheadsDenver/events/239343007/,0,3,DEN
+2017-05-10T16:30:00-07:00,Denver Java Users Group,"Look ma, no JavaScript – how you can build a modern web app 100% in Java",0s,https://www.meetup.com/DenverJavaUsersGroup/events/236999015/,0,94,DEN
+2017-05-10T17:00:00-07:00,PyData Denver,Musings from a Sr. Data Scientist + New Approaches Towards L2 Optimization,0s,https://www.meetup.com/PyData-Denver/events/238806997/,0,45,DEN
+2017-05-10T17:00:00-07:00,Denver Swift Heads,Working with Apple - Michael Dusing,2h30m0s,https://www.meetup.com/Denver-Swift-Heads/events/239325756/,0,10,DEN
+2017-05-10T17:30:00-07:00,The Gizmo Dojo (Broomfield Makerspace),Field Trip! - Rails End Brewery Tour,1h0m0s,https://www.meetup.com/Broomfield-Makerspace-Meetup-Group/events/239160852/,11,6,DEN
+2017-05-10T17:30:00-07:00,Colorado Drupal Meetups,The Boulder Drupal Meetup,0s,https://www.meetup.com/drupal-colorado/events/239219553/,29,3,DEN
+2017-05-11T16:30:00-07:00,Turing Community Events,Refactoring and Flocking Rules w/ Orion Osborn,1h0m0s,https://www.meetup.com/Turing-Community-Events/events/238992214/,0,9,DEN
+2017-05-11T16:30:00-07:00,TIBCO Denver Users Group,Beyond Bitcoin: What to do with Blockchain?,0s,https://www.meetup.com/TIBCO-Denver-Users-Group/events/238862419/,0,7,DEN
+2017-05-11T17:00:00-07:00,DTC Go (Programming Language) Meetup,DTC Go Monthly meetup,0s,https://www.meetup.com/Denver-Go-Programming-Language-Meetup/events/238320373/,0,4,DEN
+2017-05-11T17:30:00-07:00,Boulder Linux Users Group (BLUG),Boulder Linux Users Group (BLUG) Monthly Meeting,0s,https://www.meetup.com/Boulder-Linux-Users-Group-BLUG/events/234656448/,0,11,DEN
+2017-05-11T18:30:00-07:00,Denver Hack Nite,Denver Hack Nite!,0s,https://www.meetup.com/Denver-Hack-Nite/events/231153660/,0,11,DEN
+2017-05-13T09:00:00-07:00,IT for Non-Traditional Learners (North Denver),Learn Ansible!,4h0m0s,https://www.meetup.com/North-Denver-Cloud-IT-for-Non-Traditional-Learners/events/239187416/,0,8,DEN
+2017-05-15T15:30:00-07:00,EdTech Meetup CO,Edtech Leaders Panel: Implementing New Technologies for Innovation,1h0m0s,https://www.meetup.com/EducelerateCO/events/239385051/,0,9,DEN
+2017-05-15T17:30:00-07:00,DevOps Boulder,DevOps Boulder Monthly!,0s,https://www.meetup.com/DevOps-Boulder/events/234679669/,65,27,DEN
+2017-05-16T12:00:00-07:00,EdTech Meetup CO,Reimagining Higher Education for the 21st Century Workforce,45m0s,https://www.meetup.com/EducelerateCO/events/239384989/,0,12,DEN
+2017-05-16T15:00:00-07:00,EdTech Meetup CO,Edtech Founders Panel,45m0s,https://www.meetup.com/EducelerateCO/events/239385129/,0,13,DEN
+2017-05-16T15:00:00-07:00,Mile High Azure User's Group,Mile High Azure User's Group!  May 2017,2h30m0s,https://www.meetup.com/Mile-High-Azure/events/236990338/,0,8,DEN
+2017-05-16T17:00:00-07:00,Analyze Boulder,AB May Meetup: Boulder Startup Week / Ladies Night,0s,https://www.meetup.com/Analyze-Boulder/events/238242858/,165,38,DEN
+2017-05-16T17:00:00-07:00,ReactJS Denver,Lightning Talks!,2h0m0s,https://www.meetup.com/ReactJS-Denver/events/237439438/,0,10,DEN
+2017-05-16T17:00:00-07:00,Denver Area Umbraco Meetup,Umbraco Monthly Meetup,0s,https://www.meetup.com/Denver-Area-Umbraco-Meetup/events/239325960/,0,4,DEN
+2017-05-16T17:15:00-07:00,Denver DevOps Meetup,Denver Devops Local Social,2h15m0s,https://www.meetup.com/DenverDevOps/events/237705473/,0,6,DEN
+2017-05-17T08:00:00-07:00,GDG Denver,[Ticket Required] Google I/O Extended Denver 2017,6h0m0s,https://www.meetup.com/GDG-Denver/events/237386388/,0,29,DEN
+2017-05-18T09:00:00-07:00,EdTech Meetup CO,The classroom of the future: How VR and Robotics can shape education,45m0s,https://www.meetup.com/EducelerateCO/events/239385286/,0,7,DEN
+2017-05-18T15:00:00-07:00,Innovation Pavilion: Ecosystem for Entrepreneurs,Rise Above the Noise / Get Found Online: A Proven Process for Inbound Marketing,0s,https://www.meetup.com/InnovationPavilion/events/238566550/,0,28,DEN
+2017-05-18T16:00:00-07:00,EdTech Meetup CO,StartUp Weekend EDU Happy Hour,45m0s,https://www.meetup.com/EducelerateCO/events/239385388/,0,16,DEN
+2017-05-19T16:00:00-07:00,EdTech Meetup CO,SharkTank EDU,1h0m0s,https://www.meetup.com/EducelerateCO/events/239385448/,0,20,DEN
+2017-05-20T17:30:00-07:00,denhac - The Denver Hackerspace,denhac @ Sparks & Spirits,4h0m0s,https://www.meetup.com/denhac-hackerspace/events/238849118/,0,4,DEN
+2017-05-23T17:00:00-07:00,Geospatial Amateurs - Denver,Spring Hacktacular 2017!,0s,https://www.meetup.com/Geospatial-Amateurs-Denver/events/239480516/,0,20,DEN
+2017-05-24T06:30:00-07:00,"Next Gen Hadoop Big Data Stream Processing Apex UG, Denver",Glue Conference 2017 - Day 1,15h0m0s,https://www.meetup.com/Apex-Users-Group-Denver/events/237344507/,0,6,DEN
+2017-05-24T17:00:00-07:00,Denver Microservices,"""Tearing Down the Monolith"" and ""Serverless Microservice with Vert.x""",0s,https://www.meetup.com/DenverMicroservices/events/238499124/,100,4,DEN
+2017-05-25T16:30:00-07:00,DevFaction Boulder,U I / U X | User Research 101,0s,https://www.meetup.com/DevFaction-Boulder/events/239330222/,0,11,DEN
+2017-05-25T17:30:00-07:00,OpenStack Denver,Discuss and Learn about OpenStack,2h0m0s,https://www.meetup.com/OpenStack-Denver/events/239162213/,0,6,DEN
+2017-05-26T16:00:00-07:00,Internet of Things Colorado/Denver/Boulder Meetup,Startup Weekend Denver | IoT 3.0 and Smart Cities,52h0m0s,https://www.meetup.com/Internet-of-Things-Denver-Meetup/events/238792433/,0,27,DEN
+2017-06-02T07:00:00-07:00,Internet of Things Colorado/Denver/Boulder Meetup,Free Online IoT DevFest Conference,37h0m0s,https://www.meetup.com/Internet-of-Things-Denver-Meetup/events/239466547/,0,10,DEN
+2017-06-02T18:00:00-07:00,TechrIoT - An Internet of Things Community,Global IoT DevFest Conference,27h0m0s,https://www.meetup.com/techriot/events/239195291/,0,20,DEN
+2017-06-06T15:30:00-07:00,Colorado Red Hat Users Group - Denver,Microservices and OpenShift Container Platform (OCP),3h0m0s,https://www.meetup.com/CO-RHUG-Denver/events/238997449/,0,7,DEN
+2017-06-06T16:30:00-07:00,Denver Open Source Users Group,Microservices - Travis Nelson and Miranda - Clark Hobbie,0s,https://www.meetup.com/DOSUG1/events/239155559/,0,3,DEN
+2017-06-08T17:00:00-07:00,Denver ServiceNow Developer Meetup,ServiceNow Developer Meetup,0s,https://www.meetup.com/Denver-ServiceNow-Developer-Meetup/events/238271751/,0,5,DEN
+2017-06-08T17:00:00-07:00,DTC Go (Programming Language) Meetup,DTC Go Monthly meetup,0s,https://www.meetup.com/Denver-Go-Programming-Language-Meetup/events/238320374/,0,3,DEN
+2017-06-08T17:00:00-07:00,Big Data & Analytics Learning Series Colorado,Big Data Mobile - Machine Learning - Self-Service Analytics,3h0m0s,https://www.meetup.com/Big-Data-Analytics-Learning-Series-Colorado/events/237859544/,0,9,DEN
+2017-06-08T17:30:00-07:00,Boulder Linux Users Group (BLUG),Boulder Linux Users Group (BLUG) Monthly Meeting,0s,https://www.meetup.com/Boulder-Linux-Users-Group-BLUG/events/234656450/,0,5,DEN
+2017-06-08T18:30:00-07:00,Denver Hack Nite,Denver Hack Nite!,0s,https://www.meetup.com/Denver-Hack-Nite/events/237584112/,0,3,DEN
+2017-06-10T09:00:00-07:00,IT for Non-Traditional Learners (North Denver),Learn Git/Markdown!,4h0m0s,https://www.meetup.com/North-Denver-Cloud-IT-for-Non-Traditional-Learners/events/239305225/,0,4,DEN
+2017-06-13T17:30:00-07:00,Boulder Python,"Boulder Python, June 2017",0s,https://www.meetup.com/BoulderPython/events/239146783/,0,27,DEN
+2017-06-14T16:30:00-07:00,Denver Java Users Group,A Tour of Gradle,0s,https://www.meetup.com/DenverJavaUsersGroup/events/239392954/,0,35,DEN
+2017-06-14T17:00:00-07:00,GDG Denver,Home Automation and RxJava2,0s,https://www.meetup.com/GDG-Denver/events/236526918/,0,13,DEN
+2017-06-14T17:00:00-07:00,PyData Denver,An Interactive Session: Building a Recurrent Neural Net to Predict Stock Prices,0s,https://www.meetup.com/PyData-Denver/events/239391059/,0,30,DEN
+2017-06-19T17:30:00-07:00,DevOps Boulder,DevOps Boulder Monthly!,0s,https://www.meetup.com/DevOps-Boulder/events/234679672/,65,9,DEN
+2017-06-20T15:00:00-07:00,Mile High Azure User's Group,Mile High Azure User's Group!  June 2017,2h30m0s,https://www.meetup.com/Mile-High-Azure/events/237173323/,0,4,DEN
+2017-06-22T17:00:00-07:00,TechrIoT - An Internet of Things Community,TechrIoT June Meetup! TechrIoT and Prime Health TBA,2h0m0s,https://www.meetup.com/techriot/events/234856336/,0,11,DEN
+2017-07-10T16:30:00-07:00,Colorado Technology Sales Roundtable,Trends associated with IOT and big data in the cloud...from analyst,0s,https://www.meetup.com/Colorado-Technology-Sales-Meetup/events/237559047/,0,7,DEN
+2017-07-11T17:30:00-07:00,Boulder Python,"Boulder Python, July 2017",0s,https://www.meetup.com/BoulderPython/events/239106652/,0,14,DEN
+2017-07-12T16:30:00-07:00,Denver Java Users Group,Spring Boot Apps in Containers Using Docker,0s,https://www.meetup.com/DenverJavaUsersGroup/events/239225319/,0,54,DEN
+2017-07-12T17:30:00-07:00,Colorado Drupal Meetups,The Boulder Drupal Meetup,0s,https://www.meetup.com/drupal-colorado/events/239219710/,29,3,DEN
+2017-07-13T17:30:00-07:00,Boulder Linux Users Group (BLUG),Boulder Linux Users Group (BLUG) Monthly Meeting,0s,https://www.meetup.com/Boulder-Linux-Users-Group-BLUG/events/234656454/,0,3,DEN
+2017-07-13T18:30:00-07:00,Denver Hack Nite,Denver Hack Nite!,0s,https://www.meetup.com/Denver-Hack-Nite/events/239402695/,0,3,DEN
+2017-07-17T17:30:00-07:00,DevOps Boulder,DevOps Boulder Monthly!,0s,https://www.meetup.com/DevOps-Boulder/events/234679673/,65,5,DEN
+2017-07-27T07:30:00-07:00,Colorado Cloud Foundry Meetup,Cloud Native Roadshow -- PCF and Spring Focused,0s,https://www.meetup.com/Colorado-Cloud-Foundry-Meetup/events/238990913/,0,12,DEN
+2017-08-07T16:30:00-07:00,Colorado Technology Sales Roundtable,"Summer Bash....time for good food, beverages and even better company",0s,https://www.meetup.com/Colorado-Technology-Sales-Meetup/events/238984304/,0,11,DEN
+2017-08-10T17:30:00-07:00,Boulder Linux Users Group (BLUG),Boulder Linux Users Group (BLUG) Monthly Meeting,0s,https://www.meetup.com/Boulder-Linux-Users-Group-BLUG/events/234656460/,0,4,DEN
+2017-08-15T17:00:00-07:00,GDG Denver,Post Coding Tools - Best practices for apps with millions of downloads,0s,https://www.meetup.com/GDG-Denver/events/198063342/,0,15,DEN
+2017-08-21T17:30:00-07:00,DevOps Boulder,DevOps Boulder Monthly!,0s,https://www.meetup.com/DevOps-Boulder/events/234679678/,65,4,DEN
+2017-09-14T17:30:00-07:00,Boulder Linux Users Group (BLUG),Boulder Linux Users Group (BLUG) Monthly Meeting,0s,https://www.meetup.com/Boulder-Linux-Users-Group-BLUG/events/234656458/,0,3,DEN
+2017-10-02T16:30:00-07:00,Colorado Technology Sales Roundtable,How to get your CRM and Marketing packages to co-exist and help you sell,0s,https://www.meetup.com/Colorado-Technology-Sales-Meetup/events/238867780/,0,4,DEN
+2017-12-04T16:30:00-08:00,Colorado Technology Sales Roundtable,Christmas Party and no topic whatsoever.,2h0m0s,https://www.meetup.com/Colorado-Technology-Sales-Meetup/events/239469681/,0,3,DEN
+2017-04-25T14:45:00-07:00,Hyperledger Boston,Dive into Hyperledger Fabric V1.0. Blockchain in Finance,3h15m0s,https://www.meetup.com/Hyperledger-Boston/events/229796866/,70,70,BOS
+2017-04-25T15:00:00-07:00,Stan Users - Boston/Camberville,Teaching statistics with Stan,0s,https://www.meetup.com/Stan-Users-Boston-Camberville/events/238809290/,55,22,BOS
+2017-04-25T15:00:00-07:00,Open Source Entrepreneur Network,From Project to Product - What You Should Know,2h30m0s,https://www.meetup.com/OSENMeetup/events/239109982/,0,45,BOS
+2017-04-25T15:00:00-07:00,Boston Alexa Developers,Alexa developer and enthusiasts meetup - April edition,3h0m0s,https://www.meetup.com/Boston-Alexa-Developers/events/237785604/,0,113,BOS
+2017-04-25T15:00:00-07:00,North Boston Azure Cloud User Group,Tim Smyth: App Services and Azure Sql,2h0m0s,https://www.meetup.com/North-Boston-Azure-Cloud-User-Group/events/239047121/,0,32,BOS
+2017-04-27T15:00:00-07:00,Analytics.Club Boston,Analytics.Club Monthly Mixer - Seeking sponsor,2h0m0s,https://www.meetup.com/AC-BOS/events/235200222/,0,20,BOS
+2017-04-25T15:30:00-07:00,The EntreTech Forum,Everything You Wanted To Know About Consulting But Were Afraid To Ask,2h30m0s,https://www.meetup.com/EntreTechForum/events/239282723/,0,8,BOS
+2017-04-25T15:30:00-07:00,TensorFlow Boston,Deep Dive into TensorFlow #4,2h0m0s,https://www.meetup.com/TensorFlow-Boston/events/238825572/,1,1,BOS
+2017-04-25T15:30:00-07:00,OpenAI Boston,Deep Dive into TensorFlow #4,2h0m0s,https://www.meetup.com/OpenAI-Boston/events/238825902/,1,1,BOS
+2017-04-25T15:30:00-07:00,Canopy Somerville Meetup,The Canopy Startup Session | Exploring the New Green Economy | 4/25 6:30PM,2h30m0s,https://www.meetup.com/Canopy-City/events/239297332/,0,13,BOS
+2017-04-25T16:00:00-07:00,Code for Boston,Weekly Hack Night,2h30m0s,https://www.meetup.com/Code-for-Boston/events/238760683/,50,20,BOS
+2017-04-25T16:00:00-07:00,Tech in Motion: Boston,Player 1/Player 2 Gaming Mixer,0s,https://www.meetup.com/TechinmotionBoston/events/236643911/,300,288,BOS
+2017-04-26T04:00:00-07:00,The Security of Things,10th Anniversary Source Boston Conference (MeetUp gets $100 off Admission),34h0m0s,https://www.meetup.com/The-Security-of-Things/events/239130130/,0,6,BOS
+2017-04-26T08:00:00-07:00,TensorFlow Boston,ONLINE WEBINAR: Text Prediction Using Recurrent Neural Networks with TensorFlow,1h0m0s,https://www.meetup.com/TensorFlow-Boston/events/239155055/,1,1,BOS
+2017-04-26T08:00:00-07:00,OpenAI Boston,ONLINE WEBINAR: Text Prediction Using Recurrent Neural Networks with TensorFlow,1h0m0s,https://www.meetup.com/OpenAI-Boston/events/239154910/,1,1,BOS
+2017-04-26T10:00:00-07:00,"Next Gen Native Hadoop Big Data Apex Users Group, Boston",Intro to Big Data AppHub: Kinesis to S3 & S3 to HDFS Sync App Templates,2h0m0s,https://www.meetup.com/Apex-Users-Group-Boston/events/239362222/,0,7,BOS
+2017-04-26T10:00:00-07:00,"Big Data (native Hadoop) Ingest & Transform, Boston Chapter",Intro to Big Data AppHub: Kinesis to S3 & S3 to HDFS Sync App Templates,2h0m0s,https://www.meetup.com/Big-Data-Ingest-Boston/events/239362228/,0,10,BOS
+2017-04-26T15:00:00-07:00,Boston React Native Meetup,Handling Navigation in Your React Native App and Elm Native UI in Production,0s,https://www.meetup.com/Boston-React-Native-Meetup/events/239105687/,100,80,BOS
+2017-04-26T15:00:00-07:00,General Assembly Boston - Tech Talks,Meet & Hire Web Developers + UX Designers,2h0m0s,https://www.meetup.com/GA-Boston-TechTalks/events/239283575/,0,4,BOS
+2017-04-26T15:00:00-07:00,The Boston Java Meetup Group,JAVA and API:Spring Boot+ AWS+AngularJS+Spring Data+JPA,0s,https://www.meetup.com/boston-java/events/238553303/,0,85,BOS
+2017-04-26T15:00:00-07:00,Massachusetts Microservices Meetup,April 2017 Microservices Meetup,2h0m0s,https://www.meetup.com/Massachusetts-Microservices-Meetup/events/239217364/,0,54,BOS
+2017-04-26T15:30:00-07:00,Boston Devops,"Effective Communication in DevOps. People, Process, Tools.",0s,https://www.meetup.com/Boston-Devops/events/238980604/,0,199,BOS
+2017-04-26T16:00:00-07:00,DevOps hangops,"Containers, Kubernetes and Microservices [http://bit.ly/2nhCzXo]",2h0m0s,https://www.meetup.com/DevOps-hangops/events/239203416/,0,7,BOS
+2017-04-26T16:00:00-07:00,Virtualization Meetup Group–Boston,"Containers, Kubernetes and Microservices [http://bit.ly/2nhC­zXo]",2h0m0s,https://www.meetup.com/VirtGBoston/events/239229390/,0,24,BOS
+2017-04-27T10:00:00-07:00,The Security of Things,Online Event: Wireless on Wall Street - Capital Market Compliance and the IoT,1h0m0s,https://www.meetup.com/The-Security-of-Things/events/239336763/,0,23,BOS
+2017-04-27T15:30:00-07:00,Boston DIG (Digital-Industrial Group),AR and Intelligent Manufacturing - co hosting with Boston AR,0s,https://www.meetup.com/Boston-DIG-Digital-Industrial-Group/events/239388251/,0,15,BOS
+2017-04-27T15:30:00-07:00,Full Stack Boston,Managing Asynchronous Data & App State with React,0s,https://www.meetup.com/Full-Stack-Boston/events/238431353/,85,79,BOS
+2017-04-27T16:00:00-07:00,The Boston Python User Group,PyCon Rehearsal 1: Comparing Unicode and Predicting Oscars,2h0m0s,https://www.meetup.com/bostonpython/events/238238860/,175,165,BOS
+2017-04-29T05:00:00-07:00,Diversity IT Network,"HACKATHON: TECH FOR INCLUSIVE HEALTH -- $5,000 1st Prize!!",12h0m0s,https://www.meetup.com/DiversityITNetwork/events/238183706/,0,3,BOS
+2017-04-29T06:00:00-07:00,HPC & GPU Supercomputing Group of Boston,GPU Acceleration Hackathon for Student Cluster Competition,7h0m0s,https://www.meetup.com/HPC-GPU-Supercomputing-Group-of-Boston/events/238856141/,50,15,BOS
+2017-04-29T06:00:00-07:00,The Boston Python User Group,Tutorial: Intro to DSP (Digital Signal Processing),3h0m0s,https://www.meetup.com/bostonpython/events/238341199/,30,39,BOS
+2017-04-29T10:00:00-07:00,The Boston Python User Group,Tutorial: How to Write and Debug C Extension Modules,3h0m0s,https://www.meetup.com/bostonpython/events/238341234/,30,33,BOS
+2017-05-01T06:30:00-07:00,Boston 3D Bioprinting Meetup,Living Additive Manufacturing via Photoredox Catalysis,1h0m0s,https://www.meetup.com/Boston-3D-Bioprinting-Meetup/events/238198244/,0,17,BOS
+2017-05-01T21:30:00-07:00,Red Hat Israel - The Open Source Leader,Join us to celebrate the doers who keep the lights on and the enterprise running,57h30m0s,https://www.meetup.com/RedHat-Open-Source-Leader/events/237133818/,0,4,BOS
+2017-05-02T07:00:00-07:00,IoT: Boston/New England Internet of Things Meetup,Ridealong #65 Webinar on Incremental IoT Strategies,0s,https://www.meetup.com/Boston-New-England-Internet-of-Things-Meetup/events/239451956/,0,17,BOS
+2017-05-02T09:00:00-07:00,Canopy Somerville Meetup,"Founder's Lunch @ Canopy May 2, 12:00-1:30PM",1h0m0s,https://www.meetup.com/Canopy-City/events/238492847/,0,3,BOS
+2017-05-02T15:00:00-07:00,HackerNest Boston Tech Socials,HackerNest Boston May Tech Social,3h0m0s,https://www.meetup.com/HackerNestBOS/events/235963397/,0,58,BOS
+2017-05-02T15:30:00-07:00,Boston Drupal Group,Boston Drupal Meetup - May Lightning Talks,2h30m0s,https://www.meetup.com/Boston-Drupal-Group/events/236381484/,0,18,BOS
+2017-05-02T15:30:00-07:00,Boston Ruby Group,Project Night,3h0m0s,https://www.meetup.com/bostonrb/events/239310683/,35,25,BOS
+2017-05-02T16:00:00-07:00,The Boston Python User Group,"PyCon Rehearsal 2: Laziness, Mongo, and Immutability",2h0m0s,https://www.meetup.com/bostonpython/events/238648235/,150,92,BOS
+2017-05-02T16:00:00-07:00,Code for Boston,Weekly Hack Night,2h30m0s,https://www.meetup.com/Code-for-Boston/events/239409500/,50,3,BOS
+2017-05-03T05:00:00-07:00,BOSTON #ODSC,ODSC East • Boston 2017 Data Science Conference & AI Expo (PAID EVENT),60h30m0s,https://www.meetup.com/open-source-data-science/events/237016921/,0,33,BOS
+2017-05-03T06:00:00-07:00,"Next Gen Native Hadoop Big Data Apex Users Group, Boston",Open Data Science CxO Summit & Expo,8h0m0s,https://www.meetup.com/Apex-Users-Group-Boston/events/236405762/,0,6,BOS
+2017-05-03T06:00:00-07:00,"Big Data (native Hadoop) Ingest & Transform, Boston Chapter",ODSC East - Boston 2017 - Day 1,8h0m0s,https://www.meetup.com/Big-Data-Ingest-Boston/events/236405617/,0,3,BOS
+2017-05-03T06:00:00-07:00,Analytics.Club Boston,ODSC East • Boston 2017 - 30% Discount Code for Members!,57h0m0s,https://www.meetup.com/AC-BOS/events/239414038/,0,5,BOS
+2017-05-03T15:00:00-07:00,CyberDrivers - Boston,CyberDrivers Kickoff,0s,https://www.meetup.com/CyberDrivers-Boston/events/239139572/,0,24,BOS
+2017-05-03T15:00:00-07:00,Windows Boston   (BAWSUG),Monthly Windows Boston Meeting,0s,https://www.meetup.com/WindowsBoston/events/238957785/,0,4,BOS
+2017-05-03T15:00:00-07:00,Analytics.Club Boston,"The Intersection of Health, Technology, and Analytics",2h0m0s,https://www.meetup.com/AC-BOS/events/239453307/,0,28,BOS
+2017-05-03T15:00:00-07:00,Data Management Association of New England,Building a Successful Enterprise Data Lake,3h0m0s,https://www.meetup.com/Data-Management-Association-of-New-England/events/239316409/,0,13,BOS
+2017-05-03T15:30:00-07:00,@Boslab | Boston Open  Science Laboratory,Open House,2h0m0s,https://www.meetup.com/BosLab/events/239113325/,0,23,BOS
+2017-05-03T15:30:00-07:00,SaaS Boston,Scaling SaaS Sales ($5m to $100m),0s,https://www.meetup.com/SaaS-Boston/events/239191738/,50,9,BOS
+2017-05-03T16:00:00-07:00,Innovation Opportunities@CC,The Right Mix: Recipes for an effective design and engineering cocktail,0s,https://www.meetup.com/Innovation-Opportunities-CC/events/237511447/,50,7,BOS
+2017-05-04T09:00:00-07:00,Boston Jenkins Area Meetup,DevOps Dojo,6h45m0s,https://www.meetup.com/Boston-Jenkins-Area-Meetup/events/237134421/,0,11,BOS
+2017-05-04T10:00:00-07:00,Convergence - where tech meets,Convergence Boston - Convergence in Healthcare,3h0m0s,https://www.meetup.com/Convergence-where-tech-meets/events/237847275/,0,66,BOS
+2017-05-04T15:30:00-07:00,Data Women,Talk Data to Me,2h0m0s,https://www.meetup.com/Data-Women/events/239174608/,0,22,BOS
+2017-05-04T15:30:00-07:00,Hackers and Hustlers,"Discuss Startup Ideas, Network, Dinner & Drinks",0s,https://www.meetup.com/Hackers-and-Hustlers/events/239212668/,0,18,BOS
+2017-05-04T15:30:00-07:00,Boston Ember.js Group,Making Web Frameworks Feel Tiny,0s,https://www.meetup.com/Boston-Ember-js/events/233998650/,0,12,BOS
+2017-05-04T16:00:00-07:00,Boston Jenkins Area Meetup,Life Sciences and Jenkins,0s,https://www.meetup.com/Boston-Jenkins-Area-Meetup/events/237134375/,0,11,BOS
+2017-05-05T14:00:00-07:00,Access Your Data Anywhere,Guardians of the Galaxy Vol. 2,0s,https://www.meetup.com/Access-Your-Data-Anywhere/events/239154405/,0,8,BOS
+2017-05-05T16:00:00-07:00,Russian Speaking Engineering and Science Professionals,Discuss science and technology trends.,0s,https://www.meetup.com/Russian-Speaking-Engineering-and-Science-Professionals/events/239094395/,0,3,BOS
+2017-05-06T06:00:00-07:00,The Boston Python User Group,Tutorial: Network Analysis Made Simple,0s,https://www.meetup.com/bostonpython/events/238341272/,30,38,BOS
+2017-05-06T07:00:00-07:00,Boston Deep Learning PB-Scale AI Big Data Cloud IoT BootCamp,Weekly PB-Scale AI 40-Node 2TB Boot Camp: Build&Operate Data Pipeline&Data Lake,32h0m0s,https://www.meetup.com/Boston-Deep-Learning-PB-Scale-AI-Big-Data-Cloud-IoT-BootCamp/events/238837039/,60,6,BOS
+2017-05-06T10:00:00-07:00,The Boston Python User Group,Tutorial: Complexity Science,3h0m0s,https://www.meetup.com/bostonpython/events/238341304/,30,37,BOS
+2017-05-06T21:00:00-07:00,Boston PHP,"jQuery jAM, Season 10",0s,https://www.meetup.com/bostonphp/events/239239593/,0,5,BOS
+2017-05-08T16:00:00-07:00,Framingham Go Usergroup,May 8th,1h30m0s,https://www.meetup.com/Framingham-Golang-Meetup/events/239382913/,0,6,BOS
+2017-05-09T15:30:00-07:00,Boston Area Test Automators,Topic Coming Soon!,3h0m0s,https://www.meetup.com/Boston-Area-Test-Automators/events/239353529/,0,5,BOS
+2017-05-09T15:30:00-07:00,CodePen Boston,May Meetup: CSS Grid,0s,https://www.meetup.com/CodePen-Boston/events/238785041/,0,37,BOS
+2017-05-09T16:00:00-07:00,The Boston Python User Group,"PyCon Rehearsal 3: Deep Learning, and Bayesian Analysis",2h0m0s,https://www.meetup.com/bostonpython/events/238250191/,120,3,BOS
+2017-05-10T15:00:00-07:00,The Boston Java Meetup Group,Java and Cloud: Hands on App development with container based services,0s,https://www.meetup.com/boston-java/events/239164474/,80,32,BOS
+2017-05-10T16:00:00-07:00,Cambridge Developer Entrepreneur Networking Full Stack,"Discuss latest projects, what's working on growth hacking side plus networking",0s,https://www.meetup.com/Cambridge-Developer-Entrepreneur-Networking-Full-Stack/events/224342479/,0,294,BOS
+2017-05-11T15:00:00-07:00,Serverless Boston,Serverless Boston @ AWS (Special Workshop),3h0m0s,https://www.meetup.com/Serverless-Boston/events/239367297/,70,38,BOS
+2017-05-11T15:00:00-07:00,AWS Portsmouth User Group,AWS Boston is hosting a Zombie Apocalypse Workshop,0s,https://www.meetup.com/aws-portsmouth-user-group/events/239366929/,0,5,BOS
+2017-05-11T15:15:00-07:00,Future of Data: Boston,"The Future of Spark, Spark Intro, and Spark with RapidMiner",0s,https://www.meetup.com/futureofdata-boston/events/239274405/,0,29,BOS
+2017-05-11T15:30:00-07:00,Open Analytics Boston,Hold the date - Open Analytics talks - Placeholder,2h30m0s,https://www.meetup.com/Open-Analytics-Boston/events/239182381/,50,5,BOS
+2017-05-11T15:30:00-07:00,The Boston Python User Group,"PyCon Rehearsal 4: Testing, Instagram and Library UX",2h30m0s,https://www.meetup.com/bostonpython/events/239381088/,0,3,BOS
+2017-05-11T16:00:00-07:00,Cyber Study Group,AWS Cert Study Session #2,0s,https://www.meetup.com/Cyber-Study-Group/events/238578677/,0,7,BOS
+2017-05-11T16:00:00-07:00,ACM Boston,Engineering Complex Behaviors in Biological Organisms with Jake Beal,2h0m0s,https://www.meetup.com/ACM-Boston/events/239336338/,200,21,BOS
+2017-05-15T06:00:00-07:00,New England Association for Information Science & Technology,Library Carpentry Event,0s,https://www.meetup.com/neasist/events/238746551/,0,5,BOS
+2017-05-17T16:00:00-07:00,Cyber Study Group,Mock Incident Response Tabletop Workshop,2h0m0s,https://www.meetup.com/Cyber-Study-Group/events/238677490/,0,14,BOS
+2017-05-19T06:00:00-07:00,Boston Big Data Meetup,Big Data Symposium - Boston,8h0m0s,https://www.meetup.com/Boston-Big-Data-Meetup/events/236332254/,0,11,BOS
+2017-05-22T06:00:00-07:00,Black Tech Boston,Inclusive Innovation Conference,8h0m0s,https://www.meetup.com/Black-Tech-Boston/events/238587979/,0,33,BOS
+2017-05-22T15:30:00-07:00,Boston WordPress,Bostonwp May Meetup,0s,https://www.meetup.com/boston-wordpress-meetup/events/236712502/,0,7,BOS
+2017-05-23T15:00:00-07:00,North Boston Azure Cloud User Group,J Sturtevant: Docker Fundamentals: Getting Started with Container Technologies,2h0m0s,https://www.meetup.com/North-Boston-Azure-Cloud-User-Group/events/238496333/,0,41,BOS
+2017-05-25T06:00:00-07:00,"Next Gen Native Hadoop Big Data Apex Users Group, Boston","Deep Learning Summit, Boston - Day 1",8h0m0s,https://www.meetup.com/Apex-Users-Group-Boston/events/236357131/,0,8,BOS
+2017-05-25T06:00:00-07:00,"Big Data (native Hadoop) Ingest & Transform, Boston Chapter","Deep Learning in Healthcare Summit, Boston - Day 1",8h0m0s,https://www.meetup.com/Big-Data-Ingest-Boston/events/236357260/,0,3,BOS
+2017-05-30T15:00:00-07:00,North Boston Azure Cloud User Group,"Dan Stolts: Nano, Containers, and DevOps on Azure",2h0m0s,https://www.meetup.com/North-Boston-Azure-Cloud-User-Group/events/238932562/,0,31,BOS
+2017-05-30T15:00:00-07:00,Boston ServiceNow Developer Meetup,Boston Developer Kickoff,2h0m0s,https://www.meetup.com/Boston-ServiceNow-Developer-Meetup/events/238768204/,0,9,BOS
+2017-05-31T15:00:00-07:00,Serverless Boston,Serverless Boston @ Microsoft,3h0m0s,https://www.meetup.com/Serverless-Boston/events/237481680/,60,53,BOS
+2017-05-31T15:00:00-07:00,Citizen Futures,ON HOLD: The Future of Inclusive Governance,0s,https://www.meetup.com/citizen-futures/events/237023919/,0,5,BOS
+2017-05-31T15:00:00-07:00,Citizen Futures,"ON HOLD: Tribalism, Global Mind, and the Future of Connected Societies",0s,https://www.meetup.com/citizen-futures/events/236998215/,0,13,BOS
+2017-06-02T05:00:00-07:00,Windows Boston   (BAWSUG),"Powershell, DevOps, Containers, Nano and Azure Deep Dive Loadfest",0s,https://www.meetup.com/WindowsBoston/events/237003715/,220,18,BOS
+2017-06-02T07:00:00-07:00,BOSNOG: The Boston Network Operators Group,BOSNOG Meeting & IX Peering Forum,10h0m0s,https://www.meetup.com/BOSNOG-The-Boston-Network-Operators-Group/events/239045101/,0,44,BOS
+2017-06-03T06:00:00-07:00,IoT Central | Boston,Partner Event: MIT Internet of Things Hackathon,0s,https://www.meetup.com/IoT-Central-Boston/events/239093212/,0,14,BOS
+2017-06-03T06:00:00-07:00,The EntreTech Forum,MIT Internet of Things Hackathon,8h0m0s,https://www.meetup.com/EntreTechForum/events/238985010/,0,12,BOS
+2017-06-03T06:00:00-07:00,The Security of Things,MIT Internet of Things Hackathon,8h0m0s,https://www.meetup.com/The-Security-of-Things/events/238980051/,0,21,BOS
+2017-06-03T06:15:00-07:00,"Next Gen Native Hadoop Big Data Apex Users Group, Boston",MIT Internet of Things Hackathon (FREE),7h45m0s,https://www.meetup.com/Apex-Users-Group-Boston/events/239001127/,0,5,BOS
+2017-06-03T06:15:00-07:00,"Big Data (native Hadoop) Ingest & Transform, Boston Chapter",MIT Internet of Things Hackathon (FREE),7h45m0s,https://www.meetup.com/Big-Data-Ingest-Boston/events/239001180/,0,6,BOS
+2017-06-03T06:30:00-07:00,North Boston Azure Cloud User Group,Docker And Azure Fundamentals Workshop,6h30m0s,https://www.meetup.com/North-Boston-Azure-Cloud-User-Group/events/239047877/,0,9,BOS
+2017-06-05T07:00:00-07:00,Boston Cloud Computing Meetup,Cloud Foundry Training (NYC),104h0m0s,https://www.meetup.com/Boston-Cloud-Computing-Meetup/events/239328006/,0,5,BOS
+2017-06-05T15:30:00-07:00,Boston Machine Learning,Automated Machine Learning,0s,https://www.meetup.com/bostonml/events/239249705/,0,407,BOS
+2017-06-06T15:30:00-07:00,Boston Drupal Group,Boston Drupal Meetup - June Drupal Nights,2h30m0s,https://www.meetup.com/Boston-Drupal-Group/events/236381455/,0,3,BOS
+2017-06-08T15:30:00-07:00,Open Analytics Boston,Hold the date - Open Analytics talks - Placeholder,2h30m0s,https://www.meetup.com/Open-Analytics-Boston/events/238905114/,50,3,BOS
+2017-06-08T15:30:00-07:00,Boston Ember.js Group,Monthly Meetup,0s,https://www.meetup.com/Boston-Ember-js/events/233998656/,0,3,BOS
+2017-06-08T15:30:00-07:00,Tech in Motion: Boston,Built in Boston: Tech Showcase,0s,https://www.meetup.com/TechinmotionBoston/events/238953766/,0,26,BOS
+2017-06-12T15:00:00-07:00,HackerNest Boston Tech Socials,HackerNest Boston June Tech Social,3h0m0s,https://www.meetup.com/HackerNestBOS/events/235963430/,0,14,BOS
+2017-06-13T15:00:00-07:00,Couchbase Boston,Sharing Use Cases about Couchbase,3h0m0s,https://www.meetup.com/Couchbase-Boston/events/239299957/,0,5,BOS
+2017-06-14T15:00:00-07:00,Boston Artificial Intelligence & Deep Learning,GLM & GBM in H2O,2h0m0s,https://www.meetup.com/Boston-Artificial-Intelligence-Deep-Learning/events/239106745/,0,83,BOS
+2017-06-15T15:00:00-07:00,Serverless Boston,Serverless Boston @Google,2h30m0s,https://www.meetup.com/Serverless-Boston/events/239038053/,70,50,BOS
+2017-06-24T07:00:00-07:00,Operation Code: Boston,Build a Website with Github Pages!,0s,https://www.meetup.com/Operation-Code-Boston/events/239388460/,0,6,BOS
+2017-06-26T15:30:00-07:00,Boston WordPress,Bostonwp June Meetup,0s,https://www.meetup.com/boston-wordpress-meetup/events/236716596/,0,5,BOS
+2017-06-27T15:00:00-07:00,North Boston Azure Cloud User Group,Jeremy Hutchinson: Azure Search,2h0m0s,https://www.meetup.com/North-Boston-Azure-Cloud-User-Group/events/239047186/,0,3,BOS
+2017-07-10T16:00:00-07:00,HackerNest Boston Tech Socials,HackerNest Boston July Tech Social,0s,https://www.meetup.com/HackerNestBOS/events/235963471/,0,5,BOS
+2017-07-13T15:30:00-07:00,Boston Ember.js Group,Monthly Meetup,0s,https://www.meetup.com/Boston-Ember-js/events/233998663/,0,3,BOS
+2017-07-13T15:30:00-07:00,Open Analytics Boston,Hold the date - Open Analytics talks - Placeholder,2h30m0s,https://www.meetup.com/Open-Analytics-Boston/events/238905101/,50,4,BOS
+2017-07-27T06:00:00-07:00,Boston R/Bioconductor for Genomics,BioC 2017: Where Software and Biology Connect - Register at www.bioconductor.org,32h0m0s,https://www.meetup.com/Boston-R-Bioconductor-for-genomics/events/235582303/,0,15,BOS
+2017-07-31T15:30:00-07:00,Boston WordPress,Bostonwp July Meetup,0s,https://www.meetup.com/boston-wordpress-meetup/events/236716606/,0,5,BOS
+2017-08-01T15:30:00-07:00,Boston Drupal Group,Boston Drupal Meetup - August Drupal Nights,2h30m0s,https://www.meetup.com/Boston-Drupal-Group/events/236381460/,0,3,BOS
+2017-08-14T15:00:00-07:00,HackerNest Boston Tech Socials,HackerNest Boston August Tech Social,0s,https://www.meetup.com/HackerNestBOS/events/235963520/,0,5,BOS
+2017-08-28T15:30:00-07:00,Boston WordPress,Bostonwp August Meetup,0s,https://www.meetup.com/boston-wordpress-meetup/events/236716618/,0,4,BOS
+2017-09-05T15:30:00-07:00,Boston Drupal Group,Boston Drupal Meetup - September Lightning Talks,2h30m0s,https://www.meetup.com/Boston-Drupal-Group/events/236381491/,0,6,BOS
+2017-09-09T21:00:00-07:00,Boston PHP,"AWS Snack, Season 1",0s,https://www.meetup.com/bostonphp/events/235913738/,0,15,BOS
+2017-09-11T16:00:00-07:00,HackerNest Boston Tech Socials,HackerNest Boston September Tech Social,0s,https://www.meetup.com/HackerNestBOS/events/235963540/,0,5,BOS
+2017-09-30T21:00:00-07:00,Boston PHP,"Angular Stew, Season 1",0s,https://www.meetup.com/bostonphp/events/234422882/,0,14,BOS
+2017-10-03T15:30:00-07:00,Boston Drupal Group,Boston Drupal Meetup - October Drupal Nights,2h30m0s,https://www.meetup.com/Boston-Drupal-Group/events/236381467/,0,3,BOS
+2017-10-09T16:00:00-07:00,HackerNest Boston Tech Socials,HackerNest Boston October Tech Social,0s,https://www.meetup.com/HackerNestBOS/events/235963543/,0,5,BOS
+2017-11-07T15:30:00-08:00,Boston Drupal Group,Boston Drupal Meetup - November Lightning Talks,2h30m0s,https://www.meetup.com/Boston-Drupal-Group/events/236381496/,0,6,BOS
+2017-11-13T16:00:00-08:00,HackerNest Boston Tech Socials,HackerNest Boston November Tech Social,0s,https://www.meetup.com/HackerNestBOS/events/235963552/,0,5,BOS
+2017-12-05T15:30:00-08:00,Boston Drupal Group,Boston Drupal Meetup - December Drupal Nights,2h30m0s,https://www.meetup.com/Boston-Drupal-Group/events/236381471/,0,3,BOS
+2018-01-06T21:00:00-08:00,Boston PHP,"Drupal Diner, Season 2",0s,https://www.meetup.com/bostonphp/events/221481907/,0,31,BOS
+2018-01-15T16:00:00-08:00,HackerNest Boston Tech Socials,HackerNest Boston January Tech Social,0s,https://www.meetup.com/HackerNestBOS/events/235963438/,0,5,BOS

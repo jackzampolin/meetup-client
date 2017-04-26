@@ -1,52 +1,39 @@
 # Meetup Client
 
-Useful links:
-- Meetup API Client Docs: https://github.com/jkutianski/meetup-api/wiki
-- micro docs: https://github.com/zeit/micro/
-- Meetup API Docs: https://www.meetup.com/meetup_api/docs/2/open_events/
+DOCS: https://www.meetup.com/meetup_api/docs/2/open_events/
 
-This meetup client pulls data about meetups and puts it into a Postgresql database. The following topics are important:
+This meetup client pulls data about meetups and puts relevant info from each meetup into a csv file. The following topics are desired:
 
-```json
-[
-  "sysadmin", 
-  "devops", 
-  "infrastructure-as-code", 
-  "docker", 
-  "opensource", 
-  "cloud-computing", 
-  "automation", 
-  "kubernetes", 
-  "containers", 
-  "iot-hacking", 
-  "internet-of-things", 
-  "sensors", 
-  "amazon-web-services", 
-  "high-scalability-computing", 
-  "saas-software-as-a-service"
-]
+```go
+var topics = []string{
+	"sysadmin",
+	"devops",
+	"infrastructure-as-code",
+	"docker",
+	"opensource",
+	"cloud-computing",
+	"automation",
+	"kubernetes",
+	"containers",
+	"iot-hacking",
+	"internet-of-things",
+	"sensors",
+	"amazon-web-services",
+	"high-scalability-computing",
+	"saas-software-as-a-service",
+}
 ```
 
 The following locations are useful to grab meetups from:
 
-```json
-[
-  {
-    "lat": "51.5074",
-    "lng": "-0.1278",
-    "human": "london"
-  },
-  {
-    "lat": "40.7128",
-    "lng": "-74.0059",
-    "human": "nyc"
-  },
-  {
-    "lat": "37.7749",
-    "lng": "-122.4194",
-    "human": "sf"
-  },
-]
+```go
+var calls = []*call{
+	NewCall("SF", callUrl("37.7749", "-122.4194")),
+	NewCall("UK", callUrl("51.5074", "-0.1278")),
+	NewCall("NYC", callUrl("40.7128", "-74.0059")),
+	NewCall("DEN", callUrl("39.7392", "-104.9903")),
+	NewCall("BOS", callUrl("42.3601", "-71.0589")),
+}
 ```
 
-Currently this repo can just pull the data it needs and does not do anything with it.
+To run just `go run main.go`! The file `results.csv` will be created with what you want.
